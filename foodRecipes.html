@@ -1,0 +1,30 @@
+<!-- foodRecipes.html -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Recipes - Fit Sensei</title>
+    <link rel="stylesheet" href="foodRecipes.css">
+</head>
+
+<body>
+    <div class="recipe-container">
+        <h2>Healthy Food Recipe</h2>
+
+        <div class="input-section">
+            <label for="ingredients">Enter Ingredients:</label>
+            <textarea id="ingredients" rows="4" placeholder="Enter ingredients separated by commas"></textarea>
+            <button onclick="generateRecipe()">Generate Recipe</button>
+        </div>
+
+        <div class="output-section" id="recipeOutput">
+            <!-- AI-generated recipe will be displayed here -->
+        </div>
+    </div>
+
+    <script src="foodRecipes.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Calorie Tracker - Fit Sensei</title>
+        <link rel="stylesheet" href="calorie.css">
+    </head>
+    
+    <body>
+        <div class="whole">
+            <div class="content-calorie-tracker">
+                <h2>Calorie Tracker</h2>
+                <p>Track your daily calorie intake to make informed food choices and achieve your weight management goals.
+                </p>
+                
+                <div class="search-bar">
+                    <label for="food-search">Search for a food item and select it (give weight in grams):</label>
+                    <input type="text" class="food-search" id="food-search" name="food-search"
+                    placeholder="e.g., Apple, Chicken, Salad">
+                    <ul class="suggestions">
+                        <li class="foodName">Filter for a food item</li>
+                    </ul>
+                    <ul id="list"></ul>
+                    <input class="apply" type="button" value="Apply">
+                    <input type="number" value=0 class="addedCalories" placeholder="Your Calories Here">  Kcals in total
+                </div>
+                
+                <div class="calorie-info">
+                    <h3>Calorie Information</h3>
+                    <p>Calories are a measure of the energy content in food. Tracking your daily intake can help you
+                        maintain a balanced diet and achieve your fitness goals.</p>
+                    </div>
+                </div>
+            </div>
+            <script src="calories.js"></script>
+        </body>
+
+</html>

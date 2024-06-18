@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modern Workout Planner</title>
+    <link rel="stylesheet" href="workout.css">
+    <script src="workout.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1 class="title">Workout Planner</h1>
+            <p class="subtitle">Create your personalized workout plan</p>
+        </div>
+        <div class="options">
+            <div class="input-group">
+                <label for="workoutType">Select Workout Type:</label>
+                <select id="workoutType" class="styled-select">
+                    <option value="cardio">Cardio</option>
+                    <option value="weightTraining">Weight Training</option>
+                </select>
+            </div>
+            <div class="input-group">
+                <label for="bodyPart">Select Body Part:</label>
+                <select id="bodyPart" class="styled-select">
+                    <option value="legs">Legs</option>
+                    <option value="arms">Arms</option>
+                    <option value="abs">Abs</option>
+                    <option value="chest">Chest</option>
+                    <option value="back">Back</option>
+                </select>
+                
+                <button type="button" id="generatePlanButton" class="generate-button">Generate Exercises</button>
+                <div class="result" id="planContainer"></div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

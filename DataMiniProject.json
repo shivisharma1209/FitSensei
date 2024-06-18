@@ -1,0 +1,6779 @@
+[
+ {
+   "S NO.": 1,
+   "Name": "Balu Shahi",
+   "Calories Per 100": 375,
+   "Carbohydrates ()": 45,
+   "Fiber ()": 3,
+   "Fats()": 18,
+   "Proteins ()": 7
+ },
+ {
+   "S NO.": 2,
+   "Name": "Boondi",
+   "Calories Per 100": 385,
+   "Carbohydrates ()": 65,
+   "Fiber ()": 2,
+   "Fats()": 12,
+   "Proteins ()": 6
+ },
+ {
+   "S NO.": 3,
+   "Name": "Gajar ka Halwa",
+   "Calories Per 100": 340,
+   "Carbohydrates ()": 35,
+   "Fiber ()": 1,
+   "Fats()": 16,
+   "Proteins ()": 4
+ },
+ {
+   "S NO.": 4,
+   "Name": "Gulab Jamun",
+   "Calories Per 100": 360,
+   "Carbohydrates ()": 50,
+   "Fiber ()": 0,
+   "Fats()": 14,
+   "Proteins ()": 6
+ },
+ {
+   "S NO.": 5,
+   "Name": "Imarti",
+   "Calories Per 100": 370,
+   "Carbohydrates ()": 60,
+   "Fiber ()": 2,
+   "Fats()": 13,
+   "Proteins ()": 3
+ },
+ {
+   "S NO.": 6,
+   "Name": "Jalebi",
+   "Calories Per 100": 395,
+   "Carbohydrates ()": 68,
+   "Fiber ()": 1,
+   "Fats()": 12,
+   "Proteins ()": 4
+ },
+ {
+   "S NO.": 7,
+   "Name": "Kaju Katli",
+   "Calories Per 100": 420,
+   "Carbohydrates ()": 48,
+   "Fiber ()": 1,
+   "Fats()": 23,
+   "Proteins ()": 7
+ },
+ {
+   "S NO.": 8,
+   "Name": "Kalakand",
+   "Calories Per 100": 350,
+   "Carbohydrates ()": 42,
+   "Fiber ()": 0,
+   "Fats()": 14,
+   "Proteins ()": 6
+ },
+ {
+   "S NO.": 9,
+   "Name": "Kheer",
+   "Calories Per 100": 175,
+   "Carbohydrates ()": 22,
+   "Fiber ()": 0,
+   "Fats()": 7,
+   "Proteins ()": 4
+ },
+ {
+   "S NO.": 10,
+   "Name": "Laddu",
+   "Calories Per 100": 390,
+   "Carbohydrates ()": 48,
+   "Fiber ()": 1,
+   "Fats()": 17,
+   "Proteins ()": 6
+ },
+ {
+   "S NO.": 11,
+   "Name": "Lassi",
+   "Calories Per 100": 85,
+   "Carbohydrates ()": 10,
+   "Fiber ()": 0,
+   "Fats()": 4,
+   "Proteins ()": 2
+ },
+ {
+   "S NO.": 12,
+   "Name": "Nankhatai",
+   "Calories Per 100": 450,
+   "Carbohydrates ()": 40,
+   "Fiber ()": 1,
+   "Fats()": 30,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 13,
+   "Name": "Petha",
+   "Calories Per 100": 300,
+   "Carbohydrates ()": 75,
+   "Fiber ()": 1,
+   "Fats()": 0,
+   "Proteins ()": 1
+ },
+ {
+   "S NO.": 14,
+   "Name": "Phirni",
+   "Calories Per 100": 150,
+   "Carbohydrates ()": 30,
+   "Fiber ()": 0,
+   "Fats()": 2,
+   "Proteins ()": 3
+ },
+ {
+   "S NO.": 15,
+   "Name": "Rabri",
+   "Calories Per 100": 320,
+   "Carbohydrates ()": 35,
+   "Fiber ()": 0,
+   "Fats()": 20,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 16,
+   "Name": "Sheera",
+   "Calories Per 100": 250,
+   "Carbohydrates ()": 45,
+   "Fiber ()": 1,
+   "Fats()": 8,
+   "Proteins ()": 4
+ },
+ {
+   "S NO.": 17,
+   "Name": "Singori",
+   "Calories Per 100": 280,
+   "Carbohydrates ()": 50,
+   "Fiber ()": 2,
+   "Fats()": 7,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 18,
+   "Name": "Sohan Halwa",
+   "Calories Per 100": 400,
+   "Carbohydrates ()": 60,
+   "Fiber ()": 3,
+   "Fats()": 15,
+   "Proteins ()": 6
+ },
+ {
+   "S NO.": 19,
+   "Name": "Sohan Papdi",
+   "Calories Per 100": 350,
+   "Carbohydrates ()": 50,
+   "Fiber ()": 1,
+   "Fats()": 15,
+   "Proteins ()": 4
+ },
+ {
+   "S NO.": 20,
+   "Name": "Chhena Jalebi",
+   "Calories Per 100": 380,
+   "Carbohydrates ()": 45,
+   "Fiber ()": 1,
+   "Fats()": 18,
+   "Proteins ()": 6
+ },
+ {
+   "S NO.": 21,
+   "Name": "Chhena Kheeri",
+   "Calories Per 100": 280,
+   "Carbohydrates ()": 30,
+   "Fiber ()": 2,
+   "Fats()": 16,
+   "Proteins ()": 8
+ },
+ {
+   "S NO.": 22,
+   "Name": "Chhena Poda",
+   "Calories Per 100": 350,
+   "Carbohydrates ()": 40,
+   "Fiber ()": 1,
+   "Fats()": 18,
+   "Proteins ()": 7
+ },
+ {
+   "S NO.": 23,
+   "Name": "Cham Cham",
+   "Calories Per 100": 330,
+   "Carbohydrates ()": 45,
+   "Fiber ()": 1,
+   "Fats()": 14,
+   "Proteins ()": 6
+ },
+ {
+   "S NO.": 24,
+   "Name": "Kheer Sagar",
+   "Calories Per 100": 280,
+   "Carbohydrates ()": 30,
+   "Fiber ()": 1,
+   "Fats()": 14,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 25,
+   "Name": "Ledikeni",
+   "Calories Per 100": 380,
+   "Carbohydrates ()": 50,
+   "Fiber ()": 1,
+   "Fats()": 18,
+   "Proteins ()": 6
+ },
+ {
+   "S NO.": 26,
+   "Name": "Lyangcha",
+   "Calories Per 100": 340,
+   "Carbohydrates ()": 45,
+   "Fiber ()": 2,
+   "Fats()": 15,
+   "Proteins ()": 7
+ },
+ {
+   "S NO.": 27,
+   "Name": "Malapua",
+   "Calories Per 100": 370,
+   "Carbohydrates ()": 40,
+   "Fiber ()": 2,
+   "Fats()": 20,
+   "Proteins ()": 6
+ },
+ {
+   "S NO.": 28,
+   "Name": "Mihidana",
+   "Calories Per 100": 310,
+   "Carbohydrates ()": 45,
+   "Fiber ()": 1,
+   "Fats()": 12,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 29,
+   "Name": "Mishti Doi",
+   "Calories Per 100": 150,
+   "Carbohydrates ()": 20,
+   "Fiber ()": 0,
+   "Fats()": 6,
+   "Proteins ()": 4
+ },
+ {
+   "S NO.": 30,
+   "Name": "Pantua",
+   "Calories Per 100": 380,
+   "Carbohydrates ()": 45,
+   "Fiber ()": 1,
+   "Fats()": 18,
+   "Proteins ()": 6
+ },
+ {
+   "S NO.": 31,
+   "Name": "Pithe",
+   "Calories Per 100": 200,
+   "Carbohydrates ()": 30,
+   "Fiber ()": 2,
+   "Fats()": 10,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 32,
+   "Name": "Rasabali",
+   "Calories Per 100": 300,
+   "Carbohydrates ()": 40,
+   "Fiber ()": 1,
+   "Fats()": 15,
+   "Proteins ()": 6
+ },
+ {
+   "S NO.": 33,
+   "Name": "Ras Malai",
+   "Calories Per 100": 250,
+   "Carbohydrates ()": 30,
+   "Fiber ()": 1,
+   "Fats()": 10,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 34,
+   "Name": "Rasgulla",
+   "Calories Per 100": 220,
+   "Carbohydrates ()": 25,
+   "Fiber ()": 1,
+   "Fats()": 8,
+   "Proteins ()": 4
+ },
+ {
+   "S NO.": 35,
+   "Name": "Sandesh",
+   "Calories Per 100": 180,
+   "Carbohydrates ()": 20,
+   "Fiber ()": 2,
+   "Fats()": 10,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 36,
+   "Name": "Adhirasam",
+   "Calories Per 100": 250,
+   "Carbohydrates ()": 40,
+   "Fiber ()": 3,
+   "Fats()": 10,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 37,
+   "Name": "Ariselu",
+   "Calories Per 100": 220,
+   "Carbohydrates ()": 35,
+   "Fiber ()": 2,
+   "Fats()": 8,
+   "Proteins ()": 4
+ },
+ {
+   "S NO.": 38,
+   "Name": "Bandar Laddu",
+   "Calories Per 100": 280,
+   "Carbohydrates ()": 40,
+   "Fiber ()": 1,
+   "Fats()": 12,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 39,
+   "Name": "Chikki",
+   "Calories Per 100": 400,
+   "Carbohydrates ()": 50,
+   "Fiber ()": 4,
+   "Fats()": 20,
+   "Proteins ()": 8
+ },
+ {
+   "S NO.": 40,
+   "Name": "Dharwad Pedha",
+   "Calories Per 100": 320,
+   "Carbohydrates ()": 30,
+   "Fiber ()": 1,
+   "Fats()": 20,
+   "Proteins ()": 6
+ },
+ {
+   "S NO.": 41,
+   "Name": "Double Ka Meetha",
+   "Calories Per 100": 300,
+   "Carbohydrates ()": 40,
+   "Fiber ()": 1,
+   "Fats()": 15,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 42,
+   "Name": "Gavvalu",
+   "Calories Per 100": 280,
+   "Carbohydrates ()": 35,
+   "Fiber ()": 2,
+   "Fats()": 12,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 43,
+   "Name": "Kakinada Khaja",
+   "Calories Per 100": 350,
+   "Carbohydrates ()": 45,
+   "Fiber ()": 3,
+   "Fats()": 18,
+   "Proteins ()": 6
+ },
+ {
+   "S NO.": 44,
+   "Name": "Kuzhi Paniyaram",
+   "Calories Per 100": 150,
+   "Carbohydrates ()": 20,
+   "Fiber ()": 2,
+   "Fats()": 5,
+   "Proteins ()": 3
+ },
+ {
+   "S NO.": 45,
+   "Name": "Mysore Pak",
+   "Calories Per 100": 450,
+   "Carbohydrates ()": 50,
+   "Fiber ()": 1,
+   "Fats()": 25,
+   "Proteins ()": 6
+ },
+ {
+   "S NO.": 46,
+   "Name": "Obbattu Holige",
+   "Calories Per 100": 300,
+   "Carbohydrates ()": 40,
+   "Fiber ()": 2,
+   "Fats()": 12,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 47,
+   "Name": "Palathalikalu",
+   "Calories Per 100": 220,
+   "Carbohydrates ()": 35,
+   "Fiber ()": 1,
+   "Fats()": 8,
+   "Proteins ()": 4
+ },
+ {
+   "S NO.": 48,
+   "Name": "Poornalu",
+   "Calories Per 100": 280,
+   "Carbohydrates ()": 40,
+   "Fiber ()": 2,
+   "Fats()": 12,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 49,
+   "Name": "Pongal",
+   "Calories Per 100": 150,
+   "Carbohydrates ()": 25,
+   "Fiber ()": 3,
+   "Fats()": 4,
+   "Proteins ()": 3
+ },
+ {
+   "S NO.": 50,
+   "Name": "Pootharekulu",
+   "Calories Per 100": 200,
+   "Carbohydrates ()": 35,
+   "Fiber ()": 2,
+   "Fats()": 8,
+   "Proteins ()": 4
+ },
+ {
+   "S NO.": 51,
+   "Name": "Qubani Ka Meetha",
+   "Calories Per 100": 300,
+   "Carbohydrates ()": 40,
+   "Fiber ()": 3,
+   "Fats()": 15,
+   "Proteins ()": 4
+ },
+ {
+   "S NO.": 52,
+   "Name": "Sheer Korma",
+   "Calories Per 100": 180,
+   "Carbohydrates ()": 20,
+   "Fiber ()": 1,
+   "Fats()": 10,
+   "Proteins ()": 4
+ },
+ {
+   "S NO.": 53,
+   "Name": "Unni Appam",
+   "Calories Per 100": 220,
+   "Carbohydrates ()": 30,
+   "Fiber ()": 2,
+   "Fats()": 10,
+   "Proteins ()": 4
+ },
+ {
+   "S NO.": 54,
+   "Name": "Kajjikaya",
+   "Calories Per 100": 250,
+   "Carbohydrates ()": 35,
+   "Fiber ()": 3,
+   "Fats()": 12,
+   "Proteins ()": 4
+ },
+ {
+   "S NO.": 55,
+   "Name": "Anarsa",
+   "Calories Per 100": 240,
+   "Carbohydrates ()": 35,
+   "Fiber ()": 2,
+   "Fats()": 10,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 56,
+   "Name": "Basundi",
+   "Calories Per 100": 220,
+   "Carbohydrates ()": 25,
+   "Fiber ()": 1,
+   "Fats()": 10,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 57,
+   "Name": "Dhondas",
+   "Calories Per 100": 180,
+   "Carbohydrates ()": 30,
+   "Fiber ()": 2,
+   "Fats()": 8,
+   "Proteins ()": 4
+ },
+ {
+   "S NO.": 58,
+   "Name": "Doodhpak",
+   "Calories Per 100": 180,
+   "Carbohydrates ()": 25,
+   "Fiber ()": 1,
+   "Fats()": 8,
+   "Proteins ()": 4
+ },
+ {
+   "S NO.": 59,
+   "Name": "Mahim Halwa",
+   "Calories Per 100": 280,
+   "Carbohydrates ()": 35,
+   "Fiber ()": 2,
+   "Fats()": 12,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 60,
+   "Name": "Modak",
+   "Calories Per 100": 220,
+   "Carbohydrates ()": 30,
+   "Fiber ()": 1,
+   "Fats()": 10,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 61,
+   "Name": "Shankarpali",
+   "Calories Per 100": 280,
+   "Carbohydrates ()": 35,
+   "Fiber ()": 2,
+   "Fats()": 12,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 62,
+   "Name": "Shrikhand",
+   "Calories Per 100": 220,
+   "Carbohydrates ()": 25,
+   "Fiber ()": 1,
+   "Fats()": 10,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 63,
+   "Name": "Sutar Feni",
+   "Calories Per 100": 320,
+   "Carbohydrates ()": 40,
+   "Fiber ()": 2,
+   "Fats()": 18,
+   "Proteins ()": 6
+ },
+ {
+   "S NO.": 64,
+   "Name": "Maach Jhol",
+   "Calories Per 100": 120,
+   "Carbohydrates ()": 10,
+   "Fiber ()": 1,
+   "Fats()": 5,
+   "Proteins ()": 10
+ },
+ {
+   "S NO.": 65,
+   "Name": "Pork Bharta",
+   "Calories Per 100": 180,
+   "Carbohydrates ()": 5,
+   "Fiber ()": 0,
+   "Fats()": 12,
+   "Proteins ()": 20
+ },
+ {
+   "S NO.": 66,
+   "Name": "Chak Hao Kheer",
+   "Calories Per 100": 220,
+   "Carbohydrates ()": 40,
+   "Fiber ()": 3,
+   "Fats()": 5,
+   "Proteins ()": 4
+ },
+ {
+   "S NO.": 67,
+   "Name": "Aloo Gobi",
+   "Calories Per 100": 85,
+   "Carbohydrates ()": 10,
+   "Fiber ()": 2,
+   "Fats()": 4,
+   "Proteins ()": 2
+ },
+ {
+   "S NO.": 68,
+   "Name": "Aloo Tikki",
+   "Calories Per 100": 180,
+   "Carbohydrates ()": 20,
+   "Fiber ()": 3,
+   "Fats()": 10,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 69,
+   "Name": "Aloo Matar",
+   "Calories Per 100": 120,
+   "Carbohydrates ()": 15,
+   "Fiber ()": 3,
+   "Fats()": 5,
+   "Proteins ()": 3
+ },
+ {
+   "S NO.": 70,
+   "Name": "Aloo Methi",
+   "Calories Per 100": 80,
+   "Carbohydrates ()": 10,
+   "Fiber ()": 2,
+   "Fats()": 4,
+   "Proteins ()": 2
+ },
+ {
+   "S NO.": 71,
+   "Name": "Aloo Shimla Mirch",
+   "Calories Per 100": 95,
+   "Carbohydrates ()": 12,
+   "Fiber ()": 3,
+   "Fats()": 4,
+   "Proteins ()": 2
+ },
+ {
+   "S NO.": 72,
+   "Name": "Bhatura",
+   "Calories Per 100": 300,
+   "Carbohydrates ()": 35,
+   "Fiber ()": 2,
+   "Fats()": 15,
+   "Proteins ()": 7
+ },
+ {
+   "S NO.": 73,
+   "Name": "Bhindi Masala",
+   "Calories Per 100": 70,
+   "Carbohydrates ()": 8,
+   "Fiber ()": 2,
+   "Fats()": 4,
+   "Proteins ()": 2
+ },
+ {
+   "S NO.": 74,
+   "Name": "Biryani",
+   "Calories Per 100": 200,
+   "Carbohydrates ()": 30,
+   "Fiber ()": 2,
+   "Fats()": 8,
+   "Proteins ()": 4
+ },
+ {
+   "S NO.": 75,
+   "Name": "Butter Chicken",
+   "Calories Per 100": 320,
+   "Carbohydrates ()": 15,
+   "Fiber ()": 1,
+   "Fats()": 20,
+   "Proteins ()": 15
+ },
+ {
+   "S NO.": 76,
+   "Name": "Chana Masala",
+   "Calories Per 100": 150,
+   "Carbohydrates ()": 27,
+   "Fiber ()": 5,
+   "Fats()": 2,
+   "Proteins ()": 7
+ },
+ {
+   "S NO.": 77,
+   "Name": "Chapati",
+   "Calories Per 100": 80,
+   "Carbohydrates ()": 15,
+   "Fiber ()": 2,
+   "Fats()": 2,
+   "Proteins ()": 3
+ },
+ {
+   "S NO.": 78,
+   "Name": "Chicken Razala",
+   "Calories Per 100": 250,
+   "Carbohydrates ()": 5,
+   "Fiber ()": 0,
+   "Fats()": 15,
+   "Proteins ()": 20
+ },
+ {
+   "S NO.": 79,
+   "Name": "Chicken Tikka Masala",
+   "Calories Per 100": 320,
+   "Carbohydrates ()": 15,
+   "Fiber ()": 2,
+   "Fats()": 20,
+   "Proteins ()": 15
+ },
+ {
+   "S NO.": 80,
+   "Name": "Chicken Tikka",
+   "Calories Per 100": 180,
+   "Carbohydrates ()": 1,
+   "Fiber ()": 0,
+   "Fats()": 15,
+   "Proteins ()": 15
+ },
+ {
+   "S NO.": 81,
+   "Name": "Chole Bhature",
+   "Calories Per 100": 300,
+   "Carbohydrates ()": 40,
+   "Fiber ()": 3,
+   "Fats()": 12,
+   "Proteins ()": 7
+ },
+ {
+   "S NO.": 82,
+   "Name": "Daal Baati Churma",
+   "Calories Per 100": 350,
+   "Carbohydrates ()": 40,
+   "Fiber ()": 4,
+   "Fats()": 15,
+   "Proteins ()": 8
+ },
+ {
+   "S NO.": 83,
+   "Name": "Daal Puri",
+   "Calories Per 100": 200,
+   "Carbohydrates ()": 25,
+   "Fiber ()": 2,
+   "Fats()": 8,
+   "Proteins ()": 6
+ },
+ {
+   "S NO.": 84,
+   "Name": "Dal Makhani",
+   "Calories Per 100": 250,
+   "Carbohydrates ()": 30,
+   "Fiber ()": 5,
+   "Fats()": 10,
+   "Proteins ()": 8
+ },
+ {
+   "S NO.": 85,
+   "Name": "Dal Tadka",
+   "Calories Per 100": 150,
+   "Carbohydrates ()": 20,
+   "Fiber ()": 4,
+   "Fats()": 5,
+   "Proteins ()": 6
+ },
+ {
+   "S NO.": 86,
+   "Name": "Dum Aloo",
+   "Calories Per 100": 180,
+   "Carbohydrates ()": 20,
+   "Fiber ()": 3,
+   "Fats()": 10,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 87,
+   "Name": "Poha",
+   "Calories Per 100": 120,
+   "Carbohydrates ()": 15,
+   "Fiber ()": 1,
+   "Fats()": 5,
+   "Proteins ()": 3
+ },
+ {
+   "S NO.": 88,
+   "Name": "Fara",
+   "Calories Per 100": 90,
+   "Carbohydrates ()": 20,
+   "Fiber ()": 2,
+   "Fats()": 1,
+   "Proteins ()": 2
+ },
+ {
+   "S NO.": 89,
+   "Name": "Kachori",
+   "Calories Per 100": 250,
+   "Carbohydrates ()": 30,
+   "Fiber ()": 2,
+   "Fats()": 15,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 90,
+   "Name": "Kadai Paneer",
+   "Calories Per 100": 300,
+   "Carbohydrates ()": 20,
+   "Fiber ()": 2,
+   "Fats()": 20,
+   "Proteins ()": 10
+ },
+ {
+   "S NO.": 91,
+   "Name": "Kadhi Pakoda",
+   "Calories Per 100": 150,
+   "Carbohydrates ()": 20,
+   "Fiber ()": 3,
+   "Fats()": 5,
+   "Proteins ()": 7
+ },
+ {
+   "S NO.": 92,
+   "Name": "Karela Bharta",
+   "Calories Per 100": 70,
+   "Carbohydrates ()": 10,
+   "Fiber ()": 3,
+   "Fats()": 2,
+   "Proteins ()": 3
+ },
+ {
+   "S NO.": 93,
+   "Name": "Khichdi",
+   "Calories Per 100": 180,
+   "Carbohydrates ()": 30,
+   "Fiber ()": 3,
+   "Fats()": 5,
+   "Proteins ()": 6
+ },
+ {
+   "S NO.": 94,
+   "Name": "Kofta",
+   "Calories Per 100": 220,
+   "Carbohydrates ()": 15,
+   "Fiber ()": 2,
+   "Fats()": 15,
+   "Proteins ()": 8
+ },
+ {
+   "S NO.": 95,
+   "Name": "Kulfi Falooda",
+   "Calories Per 100": 200,
+   "Carbohydrates ()": 25,
+   "Fiber ()": 1,
+   "Fats()": 10,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 96,
+   "Name": "Lauki ke Kofte",
+   "Calories Per 100": 100,
+   "Carbohydrates ()": 12,
+   "Fiber ()": 3,
+   "Fats()": 5,
+   "Proteins ()": 4
+ },
+ {
+   "S NO.": 97,
+   "Name": "Lauki ki Subji",
+   "Calories Per 100": 60,
+   "Carbohydrates ()": 8,
+   "Fiber ()": 2,
+   "Fats()": 2,
+   "Proteins ()": 2
+ },
+ {
+   "S NO.": 98,
+   "Name": "Litti Chokha",
+   "Calories Per 100": 180,
+   "Carbohydrates ()": 20,
+   "Fiber ()": 4,
+   "Fats()": 8,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 99,
+   "Name": "Makki di Roti",
+   "Calories Per 100": 110,
+   "Carbohydrates ()": 15,
+   "Fiber ()": 2,
+   "Fats()": 5,
+   "Proteins ()": 2
+ },
+ {
+   "S NO.": 100,
+   "Name": "Misi Roti",
+   "Calories Per 100": 120,
+   "Carbohydrates ()": 18,
+   "Fiber ()": 3,
+   "Fats()": 4,
+   "Proteins ()": 3
+ },
+ {
+   "S NO.": 101,
+   "Name": "Mushroom Do Pyaza",
+   "Calories Per 100": 70,
+   "Carbohydrates ()": 10,
+   "Fiber ()": 2,
+   "Fats()": 3,
+   "Proteins ()": 3
+ },
+ {
+   "S NO.": 102,
+   "Name": "Mushroom Matar",
+   "Calories Per 100": 80,
+   "Carbohydrates ()": 9,
+   "Fiber ()": 2,
+   "Fats()": 4,
+   "Proteins ()": 3
+ },
+ {
+   "S NO.": 103,
+   "Name": "Naan",
+   "Calories Per 100": 280,
+   "Carbohydrates ()": 40,
+   "Fiber ()": 3,
+   "Fats()": 10,
+   "Proteins ()": 8
+ },
+ {
+   "S NO.": 104,
+   "Name": "Navrattan Korma",
+   "Calories Per 100": 250,
+   "Carbohydrates ()": 30,
+   "Fiber ()": 2,
+   "Fats()": 15,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 105,
+   "Name": "Palak Paneer",
+   "Calories Per 100": 150,
+   "Carbohydrates ()": 10,
+   "Fiber ()": 3,
+   "Fats()": 10,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 106,
+   "Name": "Paneer Butter Masala",
+   "Calories Per 100": 280,
+   "Carbohydrates ()": 20,
+   "Fiber ()": 2,
+   "Fats()": 18,
+   "Proteins ()": 10
+ },
+ {
+   "S NO.": 107,
+   "Name": "Paneer Tikka Masala",
+   "Calories Per 100": 320,
+   "Carbohydrates ()": 15,
+   "Fiber ()": 2,
+   "Fats()": 20,
+   "Proteins ()": 15
+ },
+ {
+   "S NO.": 108,
+   "Name": "Pani Puri",
+   "Calories Per 100": 50,
+   "Carbohydrates ()": 10,
+   "Fiber ()": 2,
+   "Fats()": 2,
+   "Proteins ()": 1
+ },
+ {
+   "S NO.": 109,
+   "Name": "Panjeeri",
+   "Calories Per 100": 350,
+   "Carbohydrates ()": 45,
+   "Fiber ()": 3,
+   "Fats()": 15,
+   "Proteins ()": 7
+ },
+ {
+   "S NO.": 110,
+   "Name": "Papad",
+   "Calories Per 100": 350,
+   "Carbohydrates ()": 40,
+   "Fiber ()": 4,
+   "Fats()": 20,
+   "Proteins ()": 6
+ },
+ {
+   "S NO.": 111,
+   "Name": "Paratha",
+   "Calories Per 100": 250,
+   "Carbohydrates ()": 30,
+   "Fiber ()": 2,
+   "Fats()": 12,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 112,
+   "Name": "Pattor",
+   "Calories Per 100": 220,
+   "Carbohydrates ()": 20,
+   "Fiber ()": 3,
+   "Fats()": 14,
+   "Proteins ()": 7
+ },
+ {
+   "S NO.": 113,
+   "Name": "Pindi Chana",
+   "Calories Per 100": 130,
+   "Carbohydrates ()": 25,
+   "Fiber ()": 5,
+   "Fats()": 2,
+   "Proteins ()": 6
+ },
+ {
+   "S NO.": 114,
+   "Name": "Rajma Chaval",
+   "Calories Per 100": 180,
+   "Carbohydrates ()": 30,
+   "Fiber ()": 6,
+   "Fats()": 5,
+   "Proteins ()": 7
+ },
+ {
+   "S NO.": 115,
+   "Name": "Rongi",
+   "Calories Per 100": 120,
+   "Carbohydrates ()": 20,
+   "Fiber ()": 4,
+   "Fats()": 2,
+   "Proteins ()": 6
+ },
+ {
+   "S NO.": 116,
+   "Name": "Samosa",
+   "Calories Per 100": 250,
+   "Carbohydrates ()": 30,
+   "Fiber ()": 2,
+   "Fats()": 15,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 117,
+   "Name": "Sattu Ki Roti",
+   "Calories Per 100": 120,
+   "Carbohydrates ()": 20,
+   "Fiber ()": 3,
+   "Fats()": 3,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 118,
+   "Name": "Shahi Paneer",
+   "Calories Per 100": 280,
+   "Carbohydrates ()": 20,
+   "Fiber ()": 2,
+   "Fats()": 18,
+   "Proteins ()": 10
+ },
+ {
+   "S NO.": 119,
+   "Name": "Shahi Tukra",
+   "Calories Per 100": 300,
+   "Carbohydrates ()": 40,
+   "Fiber ()": 2,
+   "Fats()": 15,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 120,
+   "Name": "Vegetable Jalfrezi",
+   "Calories Per 100": 120,
+   "Carbohydrates ()": 15,
+   "Fiber ()": 3,
+   "Fats()": 6,
+   "Proteins ()": 4
+ },
+ {
+   "S NO.": 121,
+   "Name": "Tandoori Chicken",
+   "Calories Per 100": 180,
+   "Carbohydrates ()": 2,
+   "Fiber ()": 0,
+   "Fats()": 10,
+   "Proteins ()": 25
+ },
+ {
+   "S NO.": 122,
+   "Name": "Tandoori Fish Tikka",
+   "Calories Per 100": 150,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 8,
+   "Proteins ()": 20
+ },
+ {
+   "S NO.": 123,
+   "Name": "Attu",
+   "Calories Per 100": 90,
+   "Carbohydrates ()": 15,
+   "Fiber ()": 2,
+   "Fats()": 2,
+   "Proteins ()": 3
+ },
+ {
+   "S NO.": 124,
+   "Name": "Avial",
+   "Calories Per 100": 60,
+   "Carbohydrates ()": 8,
+   "Fiber ()": 3,
+   "Fats()": 2,
+   "Proteins ()": 2
+ },
+ {
+   "S NO.": 125,
+   "Name": "Bisi Bele Bath",
+   "Calories Per 100": 180,
+   "Carbohydrates ()": 30,
+   "Fiber ()": 3,
+   "Fats()": 5,
+   "Proteins ()": 6
+ },
+ {
+   "S NO.": 126,
+   "Name": "Currivepillai Sadam",
+   "Calories Per 100": 140,
+   "Carbohydrates ()": 25,
+   "Fiber ()": 2,
+   "Fats()": 3,
+   "Proteins ()": 4
+ },
+ {
+   "S NO.": 127,
+   "Name": "Dosa",
+   "Calories Per 100": 120,
+   "Carbohydrates ()": 20,
+   "Fiber ()": 3,
+   "Fats()": 2,
+   "Proteins ()": 4
+ },
+ {
+   "S NO.": 128,
+   "Name": "Idiappam",
+   "Calories Per 100": 90,
+   "Carbohydrates ()": 20,
+   "Fiber ()": 3,
+   "Fats()": 1,
+   "Proteins ()": 2
+ },
+ {
+   "S NO.": 129,
+   "Name": "Idli",
+   "Calories Per 100": 40,
+   "Carbohydrates ()": 8,
+   "Fiber ()": 1,
+   "Fats()": 0.5,
+   "Proteins ()": 2
+ },
+ {
+   "S NO.": 130,
+   "Name": "Kanji",
+   "Calories Per 100": 50,
+   "Carbohydrates ()": 10,
+   "Fiber ()": 2,
+   "Fats()": 1,
+   "Proteins ()": 1
+ },
+ {
+   "S NO.": 131,
+   "Name": "Kaara Kozhambu",
+   "Calories Per 100": 60,
+   "Carbohydrates ()": 8,
+   "Fiber ()": 2,
+   "Fats()": 3,
+   "Proteins ()": 2
+ },
+ {
+   "S NO.": 132,
+   "Name": "Keerai Kootu",
+   "Calories Per 100": 50,
+   "Carbohydrates ()": 5,
+   "Fiber ()": 2,
+   "Fats()": 3,
+   "Proteins ()": 2
+ },
+ {
+   "S NO.": 133,
+   "Name": "Keerai Masiyal",
+   "Calories Per 100": 40,
+   "Carbohydrates ()": 4,
+   "Fiber ()": 2,
+   "Fats()": 2,
+   "Proteins ()": 1
+ },
+ {
+   "S NO.": 134,
+   "Name": "Keerai Sadam",
+   "Calories Per 100": 120,
+   "Carbohydrates ()": 20,
+   "Fiber ()": 3,
+   "Fats()": 2,
+   "Proteins ()": 3
+ },
+ {
+   "S NO.": 135,
+   "Name": "Keerai Poriyal",
+   "Calories Per 100": 60,
+   "Carbohydrates ()": 8,
+   "Fiber ()": 3,
+   "Fats()": 3,
+   "Proteins ()": 2
+ },
+ {
+   "S NO.": 136,
+   "Name": "Beef Fry",
+   "Calories Per 100": 200,
+   "Carbohydrates ()": 5,
+   "Fiber ()": 1,
+   "Fats()": 12,
+   "Proteins ()": 25
+ },
+ {
+   "S NO.": 137,
+   "Name": "Kootu",
+   "Calories Per 100": 70,
+   "Carbohydrates ()": 10,
+   "Fiber ()": 3,
+   "Fats()": 2,
+   "Proteins ()": 4
+ },
+ {
+   "S NO.": 138,
+   "Name": "Kos Kootu",
+   "Calories Per 100": 80,
+   "Carbohydrates ()": 12,
+   "Fiber ()": 4,
+   "Fats()": 3,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 139,
+   "Name": "Koshambri",
+   "Calories Per 100": 40,
+   "Carbohydrates ()": 8,
+   "Fiber ()": 2,
+   "Fats()": 1,
+   "Proteins ()": 1
+ },
+ {
+   "S NO.": 140,
+   "Name": "Kothamali Sadam",
+   "Calories Per 100": 100,
+   "Carbohydrates ()": 20,
+   "Fiber ()": 3,
+   "Fats()": 2,
+   "Proteins ()": 3
+ },
+ {
+   "S NO.": 141,
+   "Name": "Kuzhakkattai",
+   "Calories Per 100": 90,
+   "Carbohydrates ()": 18,
+   "Fiber ()": 3,
+   "Fats()": 1,
+   "Proteins ()": 2
+ },
+ {
+   "S NO.": 142,
+   "Name": "Kuzhambu",
+   "Calories Per 100": 60,
+   "Carbohydrates ()": 10,
+   "Fiber ()": 2,
+   "Fats()": 2,
+   "Proteins ()": 2
+ },
+ {
+   "S NO.": 143,
+   "Name": "Masala Dosa",
+   "Calories Per 100": 160,
+   "Carbohydrates ()": 30,
+   "Fiber ()": 4,
+   "Fats()": 2,
+   "Proteins ()": 4
+ },
+ {
+   "S NO.": 144,
+   "Name": "Pachadi",
+   "Calories Per 100": 40,
+   "Carbohydrates ()": 8,
+   "Fiber ()": 2,
+   "Fats()": 1,
+   "Proteins ()": 1
+ },
+ {
+   "S NO.": 145,
+   "Name": "Paniyaram",
+   "Calories Per 100": 120,
+   "Carbohydrates ()": 20,
+   "Fiber ()": 2,
+   "Fats()": 3,
+   "Proteins ()": 4
+ },
+ {
+   "S NO.": 146,
+   "Name": "Papadum",
+   "Calories Per 100": 350,
+   "Carbohydrates ()": 40,
+   "Fiber ()": 4,
+   "Fats()": 20,
+   "Proteins ()": 6
+ },
+ {
+   "S NO.": 147,
+   "Name": "Paravannam",
+   "Calories Per 100": 200,
+   "Carbohydrates ()": 30,
+   "Fiber ()": 2,
+   "Fats()": 5,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 148,
+   "Name": "Payasam",
+   "Calories Per 100": 133,
+   "Carbohydrates ()": 22,
+   "Fiber ()": 5,
+   "Fats()": 6,
+   "Proteins ()": 1
+ },
+ {
+   "S NO.": 149,
+   "Name": "Paruppu sadam",
+   "Calories Per 100": 77,
+   "Carbohydrates ()": 39,
+   "Fiber ()": 3,
+   "Fats()": 8,
+   "Proteins ()": 7
+ },
+ {
+   "S NO.": 150,
+   "Name": "Pesarattu",
+   "Calories Per 100": 126,
+   "Carbohydrates ()": 34,
+   "Fiber ()": 4,
+   "Fats()": 2,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 151,
+   "Name": "Poriyal",
+   "Calories Per 100": 189,
+   "Carbohydrates ()": 12,
+   "Fiber ()": 4,
+   "Fats()": 2,
+   "Proteins ()": 1
+ },
+ {
+   "S NO.": 152,
+   "Name": "Puli sadam",
+   "Calories Per 100": 54,
+   "Carbohydrates ()": 34,
+   "Fiber ()": 2,
+   "Fats()": 7,
+   "Proteins ()": 3
+ },
+ {
+   "S NO.": 153,
+   "Name": "Rasam",
+   "Calories Per 100": 179,
+   "Carbohydrates ()": 4,
+   "Fiber ()": 1,
+   "Fats()": 0,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 154,
+   "Name": "Puttu",
+   "Calories Per 100": 198,
+   "Carbohydrates ()": 38,
+   "Fiber ()": 0,
+   "Fats()": 1,
+   "Proteins ()": 3
+ },
+ {
+   "S NO.": 155,
+   "Name": "Sambar",
+   "Calories Per 100": 165,
+   "Carbohydrates ()": 4,
+   "Fiber ()": 2,
+   "Fats()": 2,
+   "Proteins ()": 2
+ },
+ {
+   "S NO.": 156,
+   "Name": "Sandige",
+   "Calories Per 100": 155,
+   "Carbohydrates ()": 60,
+   "Fiber ()": 0,
+   "Fats()": 5,
+   "Proteins ()": 3
+ },
+ {
+   "S NO.": 157,
+   "Name": "Sevai",
+   "Calories Per 100": 342,
+   "Carbohydrates ()": 25,
+   "Fiber ()": 1,
+   "Fats()": 7,
+   "Proteins ()": 1
+ },
+ {
+   "S NO.": 158,
+   "Name": "Thayir sadam",
+   "Calories Per 100": 157,
+   "Carbohydrates ()": 16,
+   "Fiber ()": 0,
+   "Fats()": 1,
+   "Proteins ()": 3
+ },
+ {
+   "S NO.": 159,
+   "Name": "Theeyal",
+   "Calories Per 100": 126,
+   "Carbohydrates ()": 12,
+   "Fiber ()": 3,
+   "Fats()": 10,
+   "Proteins ()": 2
+ },
+ {
+   "S NO.": 160,
+   "Name": "Uttapam",
+   "Calories Per 100": 163,
+   "Carbohydrates ()": 25,
+   "Fiber ()": 2,
+   "Fats()": 6,
+   "Proteins ()": 3
+ },
+ {
+   "S NO.": 161,
+   "Name": "Vada",
+   "Calories Per 100": 220,
+   "Carbohydrates ()": 46,
+   "Fiber ()": 2,
+   "Fats()": 19,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 162,
+   "Name": "Chicken Varuval",
+   "Calories Per 100": 152,
+   "Carbohydrates ()": 5,
+   "Fiber ()": 1,
+   "Fats()": 6,
+   "Proteins ()": 19
+ },
+ {
+   "S NO.": 163,
+   "Name": "Upma",
+   "Calories Per 100": 153,
+   "Carbohydrates ()": 21,
+   "Fiber ()": 2,
+   "Fats()": 5,
+   "Proteins ()": 3
+ },
+ {
+   "S NO.": 164,
+   "Name": "Amti",
+   "Calories Per 100": 34,
+   "Carbohydrates ()": 12,
+   "Fiber ()": 4,
+   "Fats()": 4,
+   "Proteins ()": 4
+ },
+ {
+   "S NO.": 165,
+   "Name": "Zunka",
+   "Calories Per 100": 246,
+   "Carbohydrates ()": 16,
+   "Fiber ()": 5,
+   "Fats()": 8,
+   "Proteins ()": 6
+ },
+ {
+   "S NO.": 166,
+   "Name": "Kolim Jawla",
+   "Calories Per 100": 176,
+   "Carbohydrates ()": 12,
+   "Fiber ()": 3,
+   "Fats()": 9,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 167,
+   "Name": "Saath",
+   "Calories Per 100": 119,
+   "Carbohydrates ()": 20,
+   "Fiber ()": 3,
+   "Fats()": 4,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 168,
+   "Name": "Bajri no rotlo",
+   "Calories Per 100": 68,
+   "Carbohydrates ()": 67,
+   "Fiber ()": 8,
+   "Fats()": 2,
+   "Proteins ()": 7
+ },
+ {
+   "S NO.": 169,
+   "Name": "Coconut vadi",
+   "Calories Per 100": 61,
+   "Carbohydrates ()": 30,
+   "Fiber ()": 4,
+   "Fats()": 8,
+   "Proteins ()": 2
+ },
+ {
+   "S NO.": 170,
+   "Name": "Bhakri",
+   "Calories Per 100": 279,
+   "Carbohydrates ()": 67,
+   "Fiber ()": 8,
+   "Fats()": 2,
+   "Proteins ()": 7
+ },
+ {
+   "S NO.": 171,
+   "Name": "Bombil fry",
+   "Calories Per 100": 160,
+   "Carbohydrates ()": 2,
+   "Fiber ()": 0,
+   "Fats()": 0.2,
+   "Proteins ()": 17
+ },
+ {
+   "S NO.": 172,
+   "Name": "Chakali",
+   "Calories Per 100": 195,
+   "Carbohydrates ()": 59,
+   "Fiber ()": 2,
+   "Fats()": 33,
+   "Proteins ()": 9
+ },
+ {
+   "S NO.": 173,
+   "Name": "Chevdo",
+   "Calories Per 100": 254,
+   "Carbohydrates ()": 55,
+   "Fiber ()": 3,
+   "Fats()": 34,
+   "Proteins ()": 12
+ },
+ {
+   "S NO.": 174,
+   "Name": "Chorafali",
+   "Calories Per 100": 177,
+   "Carbohydrates ()": 56,
+   "Fiber ()": 5,
+   "Fats()": 34,
+   "Proteins ()": 11
+ },
+ {
+   "S NO.": 175,
+   "Name": "Copra paak",
+   "Calories Per 100": 99,
+   "Carbohydrates ()": 60,
+   "Fiber ()": 8,
+   "Fats()": 30,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 176,
+   "Name": "Daal Dhokli",
+   "Calories Per 100": 411,
+   "Carbohydrates ()": 45,
+   "Fiber ()": 4,
+   "Fats()": 12,
+   "Proteins ()": 6
+ },
+ {
+   "S NO.": 177,
+   "Name": "Kutchi dabeli",
+   "Calories Per 100": 393,
+   "Carbohydrates ()": 60,
+   "Fiber ()": 3,
+   "Fats()": 15,
+   "Proteins ()": 9
+ },
+ {
+   "S NO.": 178,
+   "Name": "Dahi vada",
+   "Calories Per 100": 266,
+   "Carbohydrates ()": 19,
+   "Fiber ()": 2,
+   "Fats()": 12,
+   "Proteins ()": 6
+ },
+ {
+   "S NO.": 179,
+   "Name": "Dalithoy",
+   "Calories Per 100": 127,
+   "Carbohydrates ()": 7,
+   "Fiber ()": 2,
+   "Fats()": 2,
+   "Proteins ()": 4
+ },
+ {
+   "S NO.": 180,
+   "Name": "Dhokla",
+   "Calories Per 100": 141,
+   "Carbohydrates ()": 16,
+   "Fiber ()": 3,
+   "Fats()": 4,
+   "Proteins ()": 4
+ },
+ {
+   "S NO.": 181,
+   "Name": "Dudhi halwa",
+   "Calories Per 100": 174,
+   "Carbohydrates ()": 20,
+   "Fiber ()": 1,
+   "Fats()": 5,
+   "Proteins ()": 1
+ },
+ {
+   "S NO.": 182,
+   "Name": "Gatta curry",
+   "Calories Per 100": 191,
+   "Carbohydrates ()": 15,
+   "Fiber ()": 3,
+   "Fats()": 10,
+   "Proteins ()": 6
+ },
+ {
+   "S NO.": 183,
+   "Name": "Gud papdi",
+   "Calories Per 100": 253,
+   "Carbohydrates ()": 59,
+   "Fiber ()": 0,
+   "Fats()": 8,
+   "Proteins ()": 0.6
+ },
+ {
+   "S NO.": 184,
+   "Name": "Ghooghra",
+   "Calories Per 100": 279,
+   "Carbohydrates ()": 50,
+   "Fiber ()": 0,
+   "Fats()": 20,
+   "Proteins ()": 4
+ },
+ {
+   "S NO.": 185,
+   "Name": "Handwo",
+   "Calories Per 100": 218,
+   "Carbohydrates ()": 17,
+   "Fiber ()": 2,
+   "Fats()": 4,
+   "Proteins ()": 4
+ },
+ {
+   "S NO.": 186,
+   "Name": "Halvasan",
+   "Calories Per 100": 277,
+   "Carbohydrates ()": 75,
+   "Fiber ()": 0,
+   "Fats()": 0.6,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 187,
+   "Name": "Jeera Aloo",
+   "Calories Per 100": 111,
+   "Carbohydrates ()": 20,
+   "Fiber ()": 3,
+   "Fats()": 12,
+   "Proteins ()": 2
+ },
+ {
+   "S NO.": 188,
+   "Name": "Kansar",
+   "Calories Per 100": 174,
+   "Carbohydrates ()": 87,
+   "Fiber ()": 0,
+   "Fats()": 0.5,
+   "Proteins ()": 0.9
+ },
+ {
+   "S NO.": 189,
+   "Name": "Keri no ras",
+   "Calories Per 100": 152,
+   "Carbohydrates ()": 18,
+   "Fiber ()": 1,
+   "Fats()": 0.2,
+   "Proteins ()": 0.4
+ },
+ {
+   "S NO.": 190,
+   "Name": "Khakhra",
+   "Calories Per 100": 164,
+   "Carbohydrates ()": 64,
+   "Fiber ()": 12,
+   "Fats()": 6,
+   "Proteins ()": 11
+ },
+ {
+   "S NO.": 191,
+   "Name": "Khandvi",
+   "Calories Per 100": 94,
+   "Carbohydrates ()": 25,
+   "Fiber ()": 2,
+   "Fats()": 8,
+   "Proteins ()": 6
+ },
+ {
+   "S NO.": 192,
+   "Name": "Kombdi vade",
+   "Calories Per 100": 196,
+   "Carbohydrates ()": 8,
+   "Fiber ()": 1,
+   "Fats()": 12,
+   "Proteins ()": 9
+ },
+ {
+   "S NO.": 193,
+   "Name": "Laapsi",
+   "Calories Per 100": 176,
+   "Carbohydrates ()": 89,
+   "Fiber ()": 1,
+   "Fats()": 12,
+   "Proteins ()": 2
+ },
+ {
+   "S NO.": 194,
+   "Name": "Koshimbir",
+   "Calories Per 100": 117,
+   "Carbohydrates ()": 6,
+   "Fiber ()": 0.8,
+   "Fats()": 4,
+   "Proteins ()": 0.5
+ },
+ {
+   "S NO.": 195,
+   "Name": "Methi na Gota",
+   "Calories Per 100": 100,
+   "Carbohydrates ()": 21,
+   "Fiber ()": 3,
+   "Fats()": 10,
+   "Proteins ()": 8
+ },
+ {
+   "S NO.": 196,
+   "Name": "Mohanthal",
+   "Calories Per 100": 48,
+   "Carbohydrates ()": 74,
+   "Fiber ()": 3,
+   "Fats()": 17,
+   "Proteins ()": 7
+ },
+ {
+   "S NO.": 197,
+   "Name": "Muthiya",
+   "Calories Per 100": 27,
+   "Carbohydrates ()": 18,
+   "Fiber ()": 2,
+   "Fats()": 9,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 198,
+   "Name": "Patra",
+   "Calories Per 100": 68,
+   "Carbohydrates ()": 16,
+   "Fiber ()": 3,
+   "Fats()": 5,
+   "Proteins ()": 2
+ },
+ {
+   "S NO.": 199,
+   "Name": "Pav Bhaji",
+   "Calories Per 100": 67,
+   "Carbohydrates ()": 18,
+   "Fiber ()": 2,
+   "Fats()": 8,
+   "Proteins ()": 2
+ },
+ {
+   "S NO.": 200,
+   "Name": "Puri Bhaji",
+   "Calories Per 100": 59,
+   "Carbohydrates ()": 44,
+   "Fiber ()": 6,
+   "Fats()": 11,
+   "Proteins ()": 4
+ },
+ {
+   "S NO.": 201,
+   "Name": "Sabudana Khichadi",
+   "Calories Per 100": 68,
+   "Carbohydrates ()": 54,
+   "Fiber ()": 1,
+   "Fats()": 1.5,
+   "Proteins ()": 1
+ },
+ {
+   "S NO.": 202,
+   "Name": "Sev khamani",
+   "Calories Per 100": 54,
+   "Carbohydrates ()": 53,
+   "Fiber ()": 3,
+   "Fats()": 19,
+   "Proteins ()": 7
+ },
+ {
+   "S NO.": 203,
+   "Name": "Sev tameta",
+   "Calories Per 100": 220,
+   "Carbohydrates ()": 12,
+   "Fiber ()": 1,
+   "Fats()": 5,
+   "Proteins ()": 2
+ },
+ {
+   "S NO.": 204,
+   "Name": "Namakpara",
+   "Calories Per 100": 58,
+   "Carbohydrates ()": 55,
+   "Fiber ()": 3,
+   "Fats()": 30,
+   "Proteins ()": 7
+ },
+ {
+   "S NO.": 205,
+   "Name": "Sukhdi",
+   "Calories Per 100": 63,
+   "Carbohydrates ()": 70,
+   "Fiber ()": 0.5,
+   "Fats()": 12,
+   "Proteins ()": 2
+ },
+ {
+   "S NO.": 206,
+   "Name": "Surnoli",
+   "Calories Per 100": 23,
+   "Carbohydrates ()": 25,
+   "Fiber ()": 4,
+   "Fats()": 5,
+   "Proteins ()": 3
+ },
+ {
+   "S NO.": 207,
+   "Name": "Thalipeeth",
+   "Calories Per 100": 186,
+   "Carbohydrates ()": 54,
+   "Fiber ()": 7,
+   "Fats()": 16,
+   "Proteins ()": 9
+ },
+ {
+   "S NO.": 208,
+   "Name": "Undhiyu",
+   "Calories Per 100": 174,
+   "Carbohydrates ()": 14,
+   "Fiber ()": 5,
+   "Fats()": 9,
+   "Proteins ()": 3
+ },
+ {
+   "S NO.": 209,
+   "Name": "Veg Kolhapuri",
+   "Calories Per 100": 63,
+   "Carbohydrates ()": 12,
+   "Fiber ()": 4,
+   "Fats()": 16,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 210,
+   "Name": "Vindaloo",
+   "Calories Per 100": 186,
+   "Carbohydrates ()": 18,
+   "Fiber ()": 2,
+   "Fats()": 16,
+   "Proteins ()": 8
+ },
+ {
+   "S NO.": 211,
+   "Name": "Lilva Kachori",
+   "Calories Per 100": 56,
+   "Carbohydrates ()": 40,
+   "Fiber ()": 2,
+   "Fats()": 21,
+   "Proteins ()": 8
+ },
+ {
+   "S NO.": 212,
+   "Name": "Mag Dhokli",
+   "Calories Per 100": 125,
+   "Carbohydrates ()": 26,
+   "Fiber ()": 2,
+   "Fats()": 5,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 213,
+   "Name": "Khichu",
+   "Calories Per 100": 378,
+   "Carbohydrates ()": 46,
+   "Fiber ()": 2,
+   "Fats()": 0.3,
+   "Proteins ()": 1
+ },
+ {
+   "S NO.": 214,
+   "Name": "Thepla",
+   "Calories Per 100": 156,
+   "Carbohydrates ()": 36,
+   "Fiber ()": 4,
+   "Fats()": 18,
+   "Proteins ()": 6
+ },
+ {
+   "S NO.": 215,
+   "Name": "Farsi Puri",
+   "Calories Per 100": 150,
+   "Carbohydrates ()": 65,
+   "Fiber ()": 2,
+   "Fats()": 29,
+   "Proteins ()": 8
+ },
+ {
+   "S NO.": 216,
+   "Name": "Khaman",
+   "Calories Per 100": 118,
+   "Carbohydrates ()": 51,
+   "Fiber ()": 6,
+   "Fats()": 10,
+   "Proteins ()": 8
+ },
+ {
+   "S NO.": 217,
+   "Name": "Turiya Patra Vatana sabji",
+   "Calories Per 100": 102,
+   "Carbohydrates ()": 8,
+   "Fiber ()": 2,
+   "Fats()": 8,
+   "Proteins ()": 3
+ },
+ {
+   "S NO.": 218,
+   "Name": "Churma Ladoo",
+   "Calories Per 100": 61,
+   "Carbohydrates ()": 50,
+   "Fiber ()": 2,
+   "Fats()": 20,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 219,
+   "Name": "Cheera Doi",
+   "Calories Per 100": 179,
+   "Carbohydrates ()": 23,
+   "Fiber ()": 1,
+   "Fats()": 5,
+   "Proteins ()": 1
+ },
+ {
+   "S NO.": 220,
+   "Name": "Gheela Pitha",
+   "Calories Per 100": 44105,
+   "Carbohydrates ()": 55,
+   "Fiber ()": 2,
+   "Fats()": 6,
+   "Proteins ()": 2
+ },
+ {
+   "S NO.": 221,
+   "Name": "Khar",
+   "Calories Per 100": 134,
+   "Carbohydrates ()": 10,
+   "Fiber ()": 3,
+   "Fats()": 6,
+   "Proteins ()": 4
+ },
+ {
+   "S NO.": 222,
+   "Name": "Kumol Sawul",
+   "Calories Per 100": 53,
+   "Carbohydrates ()": 34,
+   "Fiber ()": 1,
+   "Fats()": 0.4,
+   "Proteins ()": 2
+ },
+ {
+   "S NO.": 223,
+   "Name": "Luchi",
+   "Calories Per 100": 211,
+   "Carbohydrates ()": 44,
+   "Fiber ()": 1,
+   "Fats()": 20,
+   "Proteins ()": 7
+ },
+ {
+   "S NO.": 224,
+   "Name": "Alu Pitika",
+   "Calories Per 100": 163,
+   "Carbohydrates ()": 23,
+   "Fiber ()": 3,
+   "Fats()": 13,
+   "Proteins ()": 2
+ },
+ {
+   "S NO.": 225,
+   "Name": "Masor tenga",
+   "Calories Per 100": 106,
+   "Carbohydrates ()": 3,
+   "Fiber ()": 1,
+   "Fats()": 5,
+   "Proteins ()": 14
+ },
+ {
+   "S NO.": 226,
+   "Name": "Bengena Pitika",
+   "Calories Per 100": 110,
+   "Carbohydrates ()": 7,
+   "Fiber ()": 1,
+   "Fats()": 4,
+   "Proteins ()": 2
+ },
+ {
+   "S NO.": 227,
+   "Name": "Bilahi Maas",
+   "Calories Per 100": 113,
+   "Carbohydrates ()": 6,
+   "Fiber ()": 1,
+   "Fats()": 4,
+   "Proteins ()": 2
+ },
+ {
+   "S NO.": 228,
+   "Name": "Black rice",
+   "Calories Per 100": 222,
+   "Carbohydrates ()": 75,
+   "Fiber ()": 4,
+   "Fats()": 1.5,
+   "Proteins ()": 8
+ },
+ {
+   "S NO.": 229,
+   "Name": "Bora Sawul",
+   "Calories Per 100": 176,
+   "Carbohydrates ()": 19,
+   "Fiber ()": 2,
+   "Fats()": 0.5,
+   "Proteins ()": 1
+ },
+ {
+   "S NO.": 230,
+   "Name": "Brown Rice",
+   "Calories Per 100": 135,
+   "Carbohydrates ()": 23,
+   "Fiber ()": 1,
+   "Fats()": 1,
+   "Proteins ()": 2
+ },
+ {
+   "S NO.": 231,
+   "Name": "Chingri malai curry",
+   "Calories Per 100": 59,
+   "Carbohydrates ()": 5,
+   "Fiber ()": 1,
+   "Fats()": 10,
+   "Proteins ()": 10
+ },
+ {
+   "S NO.": 232,
+   "Name": "Goja",
+   "Calories Per 100": 108,
+   "Carbohydrates ()": 60,
+   "Fiber ()": 0,
+   "Fats()": 8,
+   "Proteins ()": 4
+ },
+ {
+   "S NO.": 233,
+   "Name": "Hando Guri",
+   "Calories Per 100": 198,
+   "Carbohydrates ()": 48,
+   "Fiber ()": 1,
+   "Fats()": 20,
+   "Proteins ()": 12
+ },
+ {
+   "S NO.": 234,
+   "Name": "Haq Maas",
+   "Calories Per 100": 60,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 0,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 235,
+   "Name": "Chingri Bhape",
+   "Calories Per 100": 159,
+   "Carbohydrates ()": 7,
+   "Fiber ()": 1,
+   "Fats()": 10,
+   "Proteins ()": 20
+ },
+ {
+   "S NO.": 236,
+   "Name": "Kabiraji",
+   "Calories Per 100": 163,
+   "Carbohydrates ()": 4,
+   "Fiber ()": 0,
+   "Fats()": 5,
+   "Proteins ()": 15
+ },
+ {
+   "S NO.": 237,
+   "Name": "Khorisa",
+   "Calories Per 100": 165,
+   "Carbohydrates ()": 7,
+   "Fiber ()": 1,
+   "Fats()": 10,
+   "Proteins ()": 20
+ },
+ {
+   "S NO.": 238,
+   "Name": "Koldil Chicken",
+   "Calories Per 100": 211,
+   "Carbohydrates ()": 5,
+   "Fiber ()": 0,
+   "Fats()": 2,
+   "Proteins ()": 25
+ },
+ {
+   "S NO.": 239,
+   "Name": "Konir Dom",
+   "Calories Per 100": 340,
+   "Carbohydrates ()": 6,
+   "Fiber ()": 1,
+   "Fats()": 3,
+   "Proteins ()": 15
+ },
+ {
+   "S NO.": 240,
+   "Name": "Koldil Duck",
+   "Calories Per 100": 414,
+   "Carbohydrates ()": 4,
+   "Fiber ()": 0,
+   "Fats()": 3,
+   "Proteins ()": 25
+ },
+ {
+   "S NO.": 241,
+   "Name": "Masor Koni",
+   "Calories Per 100": 356,
+   "Carbohydrates ()": 6,
+   "Fiber ()": 0,
+   "Fats()": 3,
+   "Proteins ()": 20
+ },
+ {
+   "S NO.": 242,
+   "Name": "Mishti Chholar Dal",
+   "Calories Per 100": 374,
+   "Carbohydrates ()": 60,
+   "Fiber ()": 5,
+   "Fats()": 9,
+   "Proteins ()": 7
+ },
+ {
+   "S NO.": 243,
+   "Name": "Pakhala",
+   "Calories Per 100": 151,
+   "Carbohydrates ()": 7,
+   "Fiber ()": 0,
+   "Fats()": 0.1,
+   "Proteins ()": 0.6
+ },
+ {
+   "S NO.": 244,
+   "Name": "Pani Pitha",
+   "Calories Per 100": 326,
+   "Carbohydrates ()": 42,
+   "Fiber ()": 0,
+   "Fats()": 6,
+   "Proteins ()": 0.6
+ },
+ {
+   "S NO.": 245,
+   "Name": "Payokh",
+   "Calories Per 100": 122,
+   "Carbohydrates ()": 39,
+   "Fiber ()": 0,
+   "Fats()": 2.5,
+   "Proteins ()": 1
+ },
+ {
+   "S NO.": 246,
+   "Name": "Prawn malai curry",
+   "Calories Per 100": 134,
+   "Carbohydrates ()": 1,
+   "Fiber ()": 0,
+   "Fats()": 14,
+   "Proteins ()": 19
+ },
+ {
+   "S NO.": 247,
+   "Name": "Red Rice",
+   "Calories Per 100": 171,
+   "Carbohydrates ()": 77,
+   "Fiber ()": 3,
+   "Fats()": 1.3,
+   "Proteins ()": 6
+ },
+ {
+   "S NO.": 248,
+   "Name": "Shukto",
+   "Calories Per 100": 236,
+   "Carbohydrates ()": 6,
+   "Fiber ()": 3,
+   "Fats()": 5,
+   "Proteins ()": 2
+ },
+ {
+   "S NO.": 249,
+   "Name": "Til Pitha",
+   "Calories Per 100": 128,
+   "Carbohydrates ()": 33,
+   "Fiber ()": 2,
+   "Fats()": 4,
+   "Proteins ()": 1
+ },
+ {
+   "S NO.": 250,
+   "Name": "Bebinca",
+   "Calories Per 100": 367,
+   "Carbohydrates ()": 50,
+   "Fiber ()": 1,
+   "Fats()": 26,
+   "Proteins ()": 7
+ },
+ {
+   "S NO.": 251,
+   "Name": "Shufta",
+   "Calories Per 100": 164,
+   "Carbohydrates ()": 50,
+   "Fiber ()": 0,
+   "Fats()": 30,
+   "Proteins ()": 7
+ },
+ {
+   "S NO.": 252,
+   "Name": "Mawa Bati",
+   "Calories Per 100": 162,
+   "Carbohydrates ()": 50,
+   "Fiber ()": 0,
+   "Fats()": 20,
+   "Proteins ()": 6
+ },
+ {
+   "S NO.": 253,
+   "Name": "Pinaca",
+   "Calories Per 100": 237,
+   "Carbohydrates ()": 30,
+   "Fiber ()": 3,
+   "Fats()": 15,
+   "Proteins ()": 5
+ },
+ {
+   "S NO.": 254,
+   "Name": "Cornstarch",
+   "Calories Per 100": 381,
+   "Carbohydrates ()": 91.27,
+   "Fiber ()": 0.9,
+   "Fats()": 0.1,
+   "Proteins ()": 0.26
+ },
+ {
+   "S NO.": 255,
+   "Name": "Nuts, pecans",
+   "Calories Per 100": 691,
+   "Carbohydrates ()": 13.86,
+   "Fiber ()": 9.6,
+   "Fats()": 72,
+   "Proteins ()": 9.17
+ },
+ {
+   "S NO.": 256,
+   "Name": "Eggplant, raw",
+   "Calories Per 100": 25,
+   "Carbohydrates ()": 5.88,
+   "Fiber ()": 3,
+   "Fats()": 0.2,
+   "Proteins ()": 0.98
+ },
+ {
+   "S NO.": 257,
+   "Name": "Teff, uncooked",
+   "Calories Per 100": 367,
+   "Carbohydrates ()": 73.13,
+   "Fiber ()": 8,
+   "Fats()": 2.4,
+   "Proteins ()": 13.3
+ },
+ {
+   "S NO.": 258,
+   "Name": "Sherbet, orange",
+   "Calories Per 100": 144,
+   "Carbohydrates ()": 30.4,
+   "Fiber ()": 1.3,
+   "Fats()": 2,
+   "Proteins ()": 1.1
+ },
+ {
+   "S NO.": 259,
+   "Name": "Cauliflower, raw",
+   "Calories Per 100": 25,
+   "Carbohydrates ()": 4.97,
+   "Fiber ()": 2,
+   "Fats()": 0.3,
+   "Proteins ()": 1.92
+ },
+ {
+   "S NO.": 260,
+   "Name": "Taro leaves, raw",
+   "Calories Per 100": 42,
+   "Carbohydrates ()": 6.7,
+   "Fiber ()": 3.7,
+   "Fats()": 0.7,
+   "Proteins ()": 4.98
+ },
+ {
+   "S NO.": 261,
+   "Name": "Lamb, raw, round",
+   "Calories Per 100": 282,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 23,
+   "Proteins ()": 16.56
+ },
+ {
+   "S NO.": 262,
+   "Name": "Cheese, camembert",
+   "Calories Per 100": 300,
+   "Carbohydrates ()": 0.46,
+   "Fiber ()": 0,
+   "Fats()": 24,
+   "Proteins ()": 19.8
+ },
+ {
+   "S NO.": 263,
+   "Name": "Vegetarian fillets",
+   "Calories Per 100": 290,
+   "Carbohydrates ()": 9,
+   "Fiber ()": 6.1,
+   "Fats()": 18,
+   "Proteins ()": 23
+ },
+ {
+   "S NO.": 264,
+   "Name": "PACE, Picante Sauce",
+   "Calories Per 100": 25,
+   "Carbohydrates ()": 6.25,
+   "Fiber ()": 3.1,
+   "Fats()": 0,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 265,
+   "Name": "Goji berries, dried",
+   "Calories Per 100": 349,
+   "Carbohydrates ()": 77.06,
+   "Fiber ()": 13,
+   "Fats()": 0.4,
+   "Proteins ()": 14.26
+ },
+ {
+   "S NO.": 266,
+   "Name": "Mango nectar, canned",
+   "Calories Per 100": 51,
+   "Carbohydrates ()": 13.12,
+   "Fiber ()": 0.3,
+   "Fats()": 0.1,
+   "Proteins ()": 0.11
+ },
+ {
+   "S NO.": 267,
+   "Name": "Crackers, rusk toast",
+   "Calories Per 100": 407,
+   "Carbohydrates ()": 72.3,
+   "Fiber ()": 0,
+   "Fats()": 7.2,
+   "Proteins ()": 13.5
+ },
+ {
+   "S NO.": 268,
+   "Name": "Chicken, boiled, feet",
+   "Calories Per 100": 215,
+   "Carbohydrates ()": 0.2,
+   "Fiber ()": 0,
+   "Fats()": 15,
+   "Proteins ()": 19.4
+ },
+ {
+   "S NO.": 269,
+   "Name": "Quail, raw, meat only",
+   "Calories Per 100": 134,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 4.5,
+   "Proteins ()": 21.76
+ },
+ {
+   "S NO.": 270,
+   "Name": "Pie, lemon, fried pies",
+   "Calories Per 100": 316,
+   "Carbohydrates ()": 42.6,
+   "Fiber ()": 2.6,
+   "Fats()": 16,
+   "Proteins ()": 3
+ },
+ {
+   "S NO.": 271,
+   "Name": "Peppers, raw, jalapeno",
+   "Calories Per 100": 29,
+   "Carbohydrates ()": 6.5,
+   "Fiber ()": 2.8,
+   "Fats()": 0.4,
+   "Proteins ()": 0.91
+ },
+ {
+   "S NO.": 272,
+   "Name": "Winged bean tuber, raw",
+   "Calories Per 100": 148,
+   "Carbohydrates ()": 28.1,
+   "Fiber ()": 0,
+   "Fats()": 0.9,
+   "Proteins ()": 11.6
+ },
+ {
+   "S NO.": 273,
+   "Name": "Salami, turkey, cooked",
+   "Calories Per 100": 172,
+   "Carbohydrates ()": 1.55,
+   "Fiber ()": 0.1,
+   "Fats()": 9.2,
+   "Proteins ()": 19.2
+ },
+ {
+   "S NO.": 274,
+   "Name": "Grapes, raw, muscadine",
+   "Calories Per 100": 57,
+   "Carbohydrates ()": 13.93,
+   "Fiber ()": 3.9,
+   "Fats()": 0.5,
+   "Proteins ()": 0.81
+ },
+ {
+   "S NO.": 275,
+   "Name": "Nuts, raw, ginkgo nuts",
+   "Calories Per 100": 182,
+   "Carbohydrates ()": 37.6,
+   "Fiber ()": 0,
+   "Fats()": 1.7,
+   "Proteins ()": 4.32
+ },
+ {
+   "S NO.": 276,
+   "Name": "Spices, ground, savory",
+   "Calories Per 100": 272,
+   "Carbohydrates ()": 68.73,
+   "Fiber ()": 45.7,
+   "Fats()": 5.9,
+   "Proteins ()": 6.73
+ },
+ {
+   "S NO.": 277,
+   "Name": "Candies, sesame crunch",
+   "Calories Per 100": 516,
+   "Carbohydrates ()": 50.3,
+   "Fiber ()": 7.7,
+   "Fats()": 33,
+   "Proteins ()": 11.6
+ },
+ {
+   "S NO.": 278,
+   "Name": "Cheese, low fat, cream",
+   "Calories Per 100": 201,
+   "Carbohydrates ()": 8.13,
+   "Fiber ()": 0,
+   "Fats()": 15,
+   "Proteins ()": 7.85
+ },
+ {
+   "S NO.": 279,
+   "Name": "PACE, Green Taco Sauce",
+   "Calories Per 100": 25,
+   "Carbohydrates ()": 6.25,
+   "Fiber ()": 0,
+   "Fats()": 0,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 280,
+   "Name": "Syrup, Canadian, maple",
+   "Calories Per 100": 270,
+   "Carbohydrates ()": 67.38,
+   "Fiber ()": 0,
+   "Fats()": 0,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 281,
+   "Name": "Ostrich, raw, top loin",
+   "Calories Per 100": 119,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 3,
+   "Proteins ()": 21.67
+ },
+ {
+   "S NO.": 282,
+   "Name": "Chewing gum, sugarless",
+   "Calories Per 100": 268,
+   "Carbohydrates ()": 94.8,
+   "Fiber ()": 2.4,
+   "Fats()": 0.4,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 283,
+   "Name": "Nuts, dried, pine nuts",
+   "Calories Per 100": 673,
+   "Carbohydrates ()": 13.08,
+   "Fiber ()": 3.7,
+   "Fats()": 68,
+   "Proteins ()": 13.69
+ },
+ {
+   "S NO.": 284,
+   "Name": "Pasta, unenriched, dry",
+   "Calories Per 100": 371,
+   "Carbohydrates ()": 74.67,
+   "Fiber ()": 3.2,
+   "Fats()": 1.5,
+   "Proteins ()": 13.04
+ },
+ {
+   "S NO.": 285,
+   "Name": "McDONALD'S, Side Salad",
+   "Calories Per 100": 20,
+   "Carbohydrates ()": 4.3,
+   "Fiber ()": 1.6,
+   "Fats()": 0.2,
+   "Proteins ()": 1.03
+ },
+ {
+   "S NO.": 286,
+   "Name": "Cookies, Marie biscuit",
+   "Calories Per 100": 406,
+   "Carbohydrates ()": 70.54,
+   "Fiber ()": 3.5,
+   "Fats()": 11,
+   "Proteins ()": 7.05
+ },
+ {
+   "S NO.": 287,
+   "Name": "Broccoli, raw, chinese",
+   "Calories Per 100": 30,
+   "Carbohydrates ()": 4.67,
+   "Fiber ()": 2.6,
+   "Fats()": 0.8,
+   "Proteins ()": 1.2
+ },
+ {
+   "S NO.": 288,
+   "Name": "McDONALD'S, Hash Brown",
+   "Calories Per 100": 271,
+   "Carbohydrates ()": 28.56,
+   "Fiber ()": 2.8,
+   "Fats()": 16,
+   "Proteins ()": 2.48
+ },
+ {
+   "S NO.": 289,
+   "Name": "Agave, raw (Southwest)",
+   "Calories Per 100": 68,
+   "Carbohydrates ()": 16.23,
+   "Fiber ()": 6.6,
+   "Fats()": 0.2,
+   "Proteins ()": 0.52
+ },
+ {
+   "S NO.": 290,
+   "Name": "Emu, raw, outside drum",
+   "Calories Per 100": 103,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 0.5,
+   "Proteins ()": 23.08
+ },
+ {
+   "S NO.": 291,
+   "Name": "Nuts, dried, beechnuts",
+   "Calories Per 100": 576,
+   "Carbohydrates ()": 33.5,
+   "Fiber ()": 0,
+   "Fats()": 50,
+   "Proteins ()": 6.2
+ },
+ {
+   "S NO.": 292,
+   "Name": "Currants, dried, zante",
+   "Calories Per 100": 283,
+   "Carbohydrates ()": 74.08,
+   "Fiber ()": 6.8,
+   "Fats()": 0.3,
+   "Proteins ()": 4.08
+ },
+ {
+   "S NO.": 293,
+   "Name": "Lentils, raw, sprouted",
+   "Calories Per 100": 106,
+   "Carbohydrates ()": 22.14,
+   "Fiber ()": 0,
+   "Fats()": 0.6,
+   "Proteins ()": 8.96
+ },
+ {
+   "S NO.": 294,
+   "Name": "Gravy, mix, dry, onion",
+   "Calories Per 100": 322,
+   "Carbohydrates ()": 67.64,
+   "Fiber ()": 6,
+   "Fats()": 3,
+   "Proteins ()": 9
+ },
+ {
+   "S NO.": 295,
+   "Name": "Pie, fruit, fried pies",
+   "Calories Per 100": 316,
+   "Carbohydrates ()": 42.6,
+   "Fiber ()": 2.6,
+   "Fats()": 16,
+   "Proteins ()": 3
+ },
+ {
+   "S NO.": 296,
+   "Name": "Snacks, cakes, popcorn",
+   "Calories Per 100": 384,
+   "Carbohydrates ()": 80.1,
+   "Fiber ()": 2.9,
+   "Fats()": 3.1,
+   "Proteins ()": 9.7
+ },
+ {
+   "S NO.": 297,
+   "Name": "Snack, Mixed Berry Bar",
+   "Calories Per 100": 383,
+   "Carbohydrates ()": 58.84,
+   "Fiber ()": 7.9,
+   "Fats()": 11,
+   "Proteins ()": 13.16
+ },
+ {
+   "S NO.": 298,
+   "Name": "Fish, raw, sheepshead",
+   "Calories Per 100": 108,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 2.4,
+   "Proteins ()": 20.21
+ },
+ {
+   "S NO.": 299,
+   "Name": "Babyfood, pear, juice",
+   "Calories Per 100": 47,
+   "Carbohydrates ()": 11.86,
+   "Fiber ()": 0.1,
+   "Fats()": 0,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 300,
+   "Name": "Brussels sprouts, raw",
+   "Calories Per 100": 43,
+   "Carbohydrates ()": 8.95,
+   "Fiber ()": 3.8,
+   "Fats()": 0.3,
+   "Proteins ()": 3.38
+ },
+ {
+   "S NO.": 301,
+   "Name": "Broccoli raab, cooked",
+   "Calories Per 100": 33,
+   "Carbohydrates ()": 3.12,
+   "Fiber ()": 2.8,
+   "Fats()": 0.5,
+   "Proteins ()": 3.83
+ },
+ {
+   "S NO.": 302,
+   "Name": "Butter oil, anhydrous",
+   "Calories Per 100": 876,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 99,
+   "Proteins ()": 0.28
+ },
+ {
+   "S NO.": 303,
+   "Name": "Chicory, raw, witloof",
+   "Calories Per 100": 17,
+   "Carbohydrates ()": 4,
+   "Fiber ()": 3.1,
+   "Fats()": 0.1,
+   "Proteins ()": 0.9
+ },
+ {
+   "S NO.": 304,
+   "Name": "KEEBLER, Waffle Cones",
+   "Calories Per 100": 424,
+   "Carbohydrates ()": 87.7,
+   "Fiber ()": 1.8,
+   "Fats()": 5.3,
+   "Proteins ()": 6.5
+ },
+ {
+   "S NO.": 305,
+   "Name": "KEEBLER, Waffle Bowls",
+   "Calories Per 100": 424,
+   "Carbohydrates ()": 87.7,
+   "Fiber ()": 1.8,
+   "Fats()": 5.3,
+   "Proteins ()": 6.5
+ },
+ {
+   "S NO.": 306,
+   "Name": "Broccoli, raw, leaves",
+   "Calories Per 100": 28,
+   "Carbohydrates ()": 5.06,
+   "Fiber ()": 2.3,
+   "Fats()": 0.4,
+   "Proteins ()": 2.98
+ },
+ {
+   "S NO.": 307,
+   "Name": "Durian, raw or frozen",
+   "Calories Per 100": 147,
+   "Carbohydrates ()": 27.09,
+   "Fiber ()": 3.8,
+   "Fats()": 5.3,
+   "Proteins ()": 1.47
+ },
+ {
+   "S NO.": 308,
+   "Name": "Tomatoes, raw, orange",
+   "Calories Per 100": 16,
+   "Carbohydrates ()": 3.18,
+   "Fiber ()": 0.9,
+   "Fats()": 0.2,
+   "Proteins ()": 1.16
+ },
+ {
+   "S NO.": 309,
+   "Name": "Tomatoes, raw, yellow",
+   "Calories Per 100": 15,
+   "Carbohydrates ()": 2.98,
+   "Fiber ()": 0.7,
+   "Fats()": 0.3,
+   "Proteins ()": 0.98
+ },
+ {
+   "S NO.": 310,
+   "Name": "Egg custards, dry mix",
+   "Calories Per 100": 410,
+   "Carbohydrates ()": 82.8,
+   "Fiber ()": 0,
+   "Fats()": 6.4,
+   "Proteins ()": 6.9
+ },
+ {
+   "S NO.": 311,
+   "Name": "Peanut flour, low fat",
+   "Calories Per 100": 428,
+   "Carbohydrates ()": 31.27,
+   "Fiber ()": 15.8,
+   "Fats()": 22,
+   "Proteins ()": 33.8
+ },
+ {
+   "S NO.": 312,
+   "Name": "Fish, smoked, haddock",
+   "Calories Per 100": 116,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 1,
+   "Proteins ()": 25.23
+ },
+ {
+   "S NO.": 313,
+   "Name": "DENNY'S, french fries",
+   "Calories Per 100": 282,
+   "Carbohydrates ()": 35.2,
+   "Fiber ()": 3.5,
+   "Fats()": 14,
+   "Proteins ()": 3.41
+ },
+ {
+   "S NO.": 314,
+   "Name": "Ground turkey, cooked",
+   "Calories Per 100": 203,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 10,
+   "Proteins ()": 27.37
+ },
+ {
+   "S NO.": 315,
+   "Name": "MURRAY, Vanilla Wafer",
+   "Calories Per 100": 461,
+   "Carbohydrates ()": 72.9,
+   "Fiber ()": 1.4,
+   "Fats()": 17,
+   "Proteins ()": 4
+ },
+ {
+   "S NO.": 316,
+   "Name": "WENDY'S, french fries",
+   "Calories Per 100": 301,
+   "Carbohydrates ()": 39.73,
+   "Fiber ()": 4,
+   "Fats()": 14,
+   "Proteins ()": 3.73
+ },
+ {
+   "S NO.": 317,
+   "Name": "Bread, toasted, wheat",
+   "Calories Per 100": 313,
+   "Carbohydrates ()": 55.77,
+   "Fiber ()": 4.7,
+   "Fats()": 4.3,
+   "Proteins ()": 12.96
+ },
+ {
+   "S NO.": 318,
+   "Name": "Danish pastry, cheese",
+   "Calories Per 100": 374,
+   "Carbohydrates ()": 37.2,
+   "Fiber ()": 1,
+   "Fats()": 22,
+   "Proteins ()": 8
+ },
+ {
+   "S NO.": 319,
+   "Name": "Nuts, glazed, walnuts",
+   "Calories Per 100": 500,
+   "Carbohydrates ()": 47.59,
+   "Fiber ()": 3.6,
+   "Fats()": 36,
+   "Proteins ()": 8.28
+ },
+ {
+   "S NO.": 320,
+   "Name": "Spices, garlic powder",
+   "Calories Per 100": 331,
+   "Carbohydrates ()": 72.73,
+   "Fiber ()": 9,
+   "Fats()": 0.7,
+   "Proteins ()": 16.55
+ },
+ {
+   "S NO.": 321,
+   "Name": "Oil, soybean lecithin",
+   "Calories Per 100": 763,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 100,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 322,
+   "Name": "Egg, fresh, raw, yolk",
+   "Calories Per 100": 322,
+   "Carbohydrates ()": 3.59,
+   "Fiber ()": 0,
+   "Fats()": 27,
+   "Proteins ()": 15.86
+ },
+ {
+   "S NO.": 323,
+   "Name": "Fireweed, raw, leaves",
+   "Calories Per 100": 103,
+   "Carbohydrates ()": 19.22,
+   "Fiber ()": 10.6,
+   "Fats()": 2.8,
+   "Proteins ()": 4.71
+ },
+ {
+   "S NO.": 324,
+   "Name": "Beef, pastrami, cured",
+   "Calories Per 100": 147,
+   "Carbohydrates ()": 0.36,
+   "Fiber ()": 0,
+   "Fats()": 5.8,
+   "Proteins ()": 21.8
+ },
+ {
+   "S NO.": 325,
+   "Name": "Frankfurter, meatless",
+   "Calories Per 100": 233,
+   "Carbohydrates ()": 7.7,
+   "Fiber ()": 3.9,
+   "Fats()": 14,
+   "Proteins ()": 19.61
+ },
+ {
+   "S NO.": 326,
+   "Name": "Emu, raw, flat fillet",
+   "Calories Per 100": 102,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 0.7,
+   "Proteins ()": 22.25
+ },
+ {
+   "S NO.": 327,
+   "Name": "Emu, raw, inside drum",
+   "Calories Per 100": 108,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 1.5,
+   "Proteins ()": 22.22
+ },
+ {
+   "S NO.": 328,
+   "Name": "Ice creams, chocolate",
+   "Calories Per 100": 216,
+   "Carbohydrates ()": 28.2,
+   "Fiber ()": 1.2,
+   "Fats()": 11,
+   "Proteins ()": 3.8
+ },
+ {
+   "S NO.": 329,
+   "Name": "Snacks, potato sticks",
+   "Calories Per 100": 522,
+   "Carbohydrates ()": 53.3,
+   "Fiber ()": 3.4,
+   "Fats()": 34,
+   "Proteins ()": 6.7
+ },
+ {
+   "S NO.": 330,
+   "Name": "USDA Commodity, salsa",
+   "Calories Per 100": 36,
+   "Carbohydrates ()": 7,
+   "Fiber ()": 1.4,
+   "Fats()": 0.2,
+   "Proteins ()": 1.5
+ },
+ {
+   "S NO.": 331,
+   "Name": "Figs, uncooked, dried",
+   "Calories Per 100": 249,
+   "Carbohydrates ()": 63.87,
+   "Fiber ()": 9.8,
+   "Fats()": 0.9,
+   "Proteins ()": 3.3
+ },
+ {
+   "S NO.": 332,
+   "Name": "Game meat, raw, horse",
+   "Calories Per 100": 133,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 4.6,
+   "Proteins ()": 21.39
+ },
+ {
+   "S NO.": 333,
+   "Name": "Syrup, fruit flavored",
+   "Calories Per 100": 261,
+   "Carbohydrates ()": 65.1,
+   "Fiber ()": 0,
+   "Fats()": 0,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 334,
+   "Name": "Broccoli, raw, stalks",
+   "Calories Per 100": 28,
+   "Carbohydrates ()": 5.24,
+   "Fiber ()": 0,
+   "Fats()": 0.4,
+   "Proteins ()": 2.98
+ },
+ {
+   "S NO.": 335,
+   "Name": "Cream, cultured, sour",
+   "Calories Per 100": 198,
+   "Carbohydrates ()": 4.63,
+   "Fiber ()": 0,
+   "Fats()": 19,
+   "Proteins ()": 2.44
+ },
+ {
+   "S NO.": 336,
+   "Name": "Gravy, canned, au jus",
+   "Calories Per 100": 16,
+   "Carbohydrates ()": 2.5,
+   "Fiber ()": 0,
+   "Fats()": 0.2,
+   "Proteins ()": 1.2
+ },
+ {
+   "S NO.": 337,
+   "Name": "McDONALD'S, Hamburger",
+   "Calories Per 100": 264,
+   "Carbohydrates ()": 30.28,
+   "Fiber ()": 1.3,
+   "Fats()": 10,
+   "Proteins ()": 12.92
+ },
+ {
+   "S NO.": 338,
+   "Name": "Cheese, port de salut",
+   "Calories Per 100": 352,
+   "Carbohydrates ()": 0.57,
+   "Fiber ()": 0,
+   "Fats()": 28,
+   "Proteins ()": 23.78
+ },
+ {
+   "S NO.": 339,
+   "Name": "SILK Original Creamer",
+   "Calories Per 100": 100,
+   "Carbohydrates ()": 6.67,
+   "Fiber ()": 0,
+   "Fats()": 6.7,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 340,
+   "Name": "SILK Hazelnut Creamer",
+   "Calories Per 100": 133,
+   "Carbohydrates ()": 20,
+   "Fiber ()": 0,
+   "Fats()": 6.7,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 341,
+   "Name": "Soup, mix, dry, onion",
+   "Calories Per 100": 293,
+   "Carbohydrates ()": 65.07,
+   "Fiber ()": 6.6,
+   "Fats()": 0.3,
+   "Proteins ()": 7.48
+ },
+ {
+   "S NO.": 342,
+   "Name": "Mushrooms, raw, enoki",
+   "Calories Per 100": 37,
+   "Carbohydrates ()": 7.81,
+   "Fiber ()": 2.7,
+   "Fats()": 0.3,
+   "Proteins ()": 2.66
+ },
+ {
+   "S NO.": 343,
+   "Name": "Bacon and beef sticks",
+   "Calories Per 100": 517,
+   "Carbohydrates ()": 0.8,
+   "Fiber ()": 0,
+   "Fats()": 44,
+   "Proteins ()": 29.1
+ },
+ {
+   "S NO.": 344,
+   "Name": "Salami, pork, Italian",
+   "Calories Per 100": 425,
+   "Carbohydrates ()": 1.2,
+   "Fiber ()": 0,
+   "Fats()": 37,
+   "Proteins ()": 21.7
+ },
+ {
+   "S NO.": 345,
+   "Name": "Crackers, whole-wheat",
+   "Calories Per 100": 427,
+   "Carbohydrates ()": 69.55,
+   "Fiber ()": 10.3,
+   "Fats()": 14,
+   "Proteins ()": 10.58
+ },
+ {
+   "S NO.": 346,
+   "Name": "Peanuts, raw, spanish",
+   "Calories Per 100": 570,
+   "Carbohydrates ()": 15.83,
+   "Fiber ()": 9.5,
+   "Fats()": 50,
+   "Proteins ()": 26.15
+ },
+ {
+   "S NO.": 347,
+   "Name": "Hominy, white, canned",
+   "Calories Per 100": 72,
+   "Carbohydrates ()": 14.26,
+   "Fiber ()": 2.5,
+   "Fats()": 0.9,
+   "Proteins ()": 1.48
+ },
+ {
+   "S NO.": 348,
+   "Name": "Game meat, raw, moose",
+   "Calories Per 100": 102,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 0.7,
+   "Proteins ()": 22.24
+ },
+ {
+   "S NO.": 349,
+   "Name": "Pears, red anjou, raw",
+   "Calories Per 100": 62,
+   "Carbohydrates ()": 14.94,
+   "Fiber ()": 3,
+   "Fats()": 0.1,
+   "Proteins ()": 0.33
+ },
+ {
+   "S NO.": 350,
+   "Name": "Horseradish, prepared",
+   "Calories Per 100": 48,
+   "Carbohydrates ()": 11.29,
+   "Fiber ()": 3.3,
+   "Fats()": 0.7,
+   "Proteins ()": 1.18
+ },
+ {
+   "S NO.": 351,
+   "Name": "Fish, raw, butterfish",
+   "Calories Per 100": 146,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 8,
+   "Proteins ()": 17.28
+ },
+ {
+   "S NO.": 352,
+   "Name": "Lebanon bologna, beef",
+   "Calories Per 100": 172,
+   "Carbohydrates ()": 0.44,
+   "Fiber ()": 0,
+   "Fats()": 10,
+   "Proteins ()": 19.03
+ },
+ {
+   "S NO.": 353,
+   "Name": "Ham and cheese spread",
+   "Calories Per 100": 245,
+   "Carbohydrates ()": 2.28,
+   "Fiber ()": 0,
+   "Fats()": 19,
+   "Proteins ()": 16.18
+ },
+ {
+   "S NO.": 354,
+   "Name": "TACO BELL, Taco Salad",
+   "Calories Per 100": 170,
+   "Carbohydrates ()": 15.1,
+   "Fiber ()": 3,
+   "Fats()": 9.2,
+   "Proteins ()": 6.69
+ },
+ {
+   "S NO.": 355,
+   "Name": "Sauce, worcestershire",
+   "Calories Per 100": 78,
+   "Carbohydrates ()": 19.46,
+   "Fiber ()": 0,
+   "Fats()": 0,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 356,
+   "Name": "Candies, marshmallows",
+   "Calories Per 100": 318,
+   "Carbohydrates ()": 81.3,
+   "Fiber ()": 0.1,
+   "Fats()": 0.2,
+   "Proteins ()": 1.8
+ },
+ {
+   "S NO.": 357,
+   "Name": "Hummus, home prepared",
+   "Calories Per 100": 177,
+   "Carbohydrates ()": 20.12,
+   "Fiber ()": 4,
+   "Fats()": 8.6,
+   "Proteins ()": 4.86
+ },
+ {
+   "S NO.": 358,
+   "Name": "Horned melon (Kiwano)",
+   "Calories Per 100": 44,
+   "Carbohydrates ()": 7.56,
+   "Fiber ()": 0,
+   "Fats()": 1.3,
+   "Proteins ()": 1.78
+ },
+ {
+   "S NO.": 359,
+   "Name": "Ice cream sundae cone",
+   "Calories Per 100": 254,
+   "Carbohydrates ()": 28.89,
+   "Fiber ()": 1,
+   "Fats()": 14,
+   "Proteins ()": 3
+ },
+ {
+   "S NO.": 360,
+   "Name": "Peppers, raw, serrano",
+   "Calories Per 100": 32,
+   "Carbohydrates ()": 6.7,
+   "Fiber ()": 3.7,
+   "Fats()": 0.4,
+   "Proteins ()": 1.74
+ },
+ {
+   "S NO.": 361,
+   "Name": "Cabbage, cooked, napa",
+   "Calories Per 100": 12,
+   "Carbohydrates ()": 2.23,
+   "Fiber ()": 0,
+   "Fats()": 0.2,
+   "Proteins ()": 1.1
+ },
+ {
+   "S NO.": 362,
+   "Name": "Peppers, dried, ancho",
+   "Calories Per 100": 281,
+   "Carbohydrates ()": 51.42,
+   "Fiber ()": 21.6,
+   "Fats()": 8.2,
+   "Proteins ()": 11.86
+ },
+ {
+   "S NO.": 363,
+   "Name": "Parsley, freeze-dried",
+   "Calories Per 100": 271,
+   "Carbohydrates ()": 42.38,
+   "Fiber ()": 32.7,
+   "Fats()": 5.2,
+   "Proteins ()": 31.3
+ },
+ {
+   "S NO.": 364,
+   "Name": "Spices, black, pepper",
+   "Calories Per 100": 251,
+   "Carbohydrates ()": 63.95,
+   "Fiber ()": 25.3,
+   "Fats()": 3.3,
+   "Proteins ()": 10.39
+ },
+ {
+   "S NO.": 365,
+   "Name": "Spices, white, pepper",
+   "Calories Per 100": 296,
+   "Carbohydrates ()": 68.61,
+   "Fiber ()": 26.2,
+   "Fats()": 2.1,
+   "Proteins ()": 10.4
+ },
+ {
+   "S NO.": 366,
+   "Name": "Yambean (jicama), raw",
+   "Calories Per 100": 38,
+   "Carbohydrates ()": 8.82,
+   "Fiber ()": 4.9,
+   "Fats()": 0.1,
+   "Proteins ()": 0.72
+ },
+ {
+   "S NO.": 367,
+   "Name": "Nuts, dried, pilinuts",
+   "Calories Per 100": 719,
+   "Carbohydrates ()": 3.98,
+   "Fiber ()": 0,
+   "Fats()": 80,
+   "Proteins ()": 10.8
+ },
+ {
+   "S NO.": 368,
+   "Name": "Kiwifruit, raw, green",
+   "Calories Per 100": 61,
+   "Carbohydrates ()": 14.66,
+   "Fiber ()": 3,
+   "Fats()": 0.5,
+   "Proteins ()": 1.14
+ },
+ {
+   "S NO.": 369,
+   "Name": "Drumstick leaves, raw",
+   "Calories Per 100": 64,
+   "Carbohydrates ()": 8.28,
+   "Fiber ()": 2,
+   "Fats()": 1.4,
+   "Proteins ()": 9.4
+ },
+ {
+   "S NO.": 370,
+   "Name": "Yautia (tannier), raw",
+   "Calories Per 100": 98,
+   "Carbohydrates ()": 23.63,
+   "Fiber ()": 1.5,
+   "Fats()": 0.4,
+   "Proteins ()": 1.46
+ },
+ {
+   "S NO.": 371,
+   "Name": "Candies, butterscotch",
+   "Calories Per 100": 391,
+   "Carbohydrates ()": 90.4,
+   "Fiber ()": 0,
+   "Fats()": 3.3,
+   "Proteins ()": 0.03
+ },
+ {
+   "S NO.": 372,
+   "Name": "Cucumber, raw, peeled",
+   "Calories Per 100": 12,
+   "Carbohydrates ()": 2.16,
+   "Fiber ()": 0.7,
+   "Fats()": 0.2,
+   "Proteins ()": 0.59
+ },
+ {
+   "S NO.": 373,
+   "Name": "Dandelion greens, raw",
+   "Calories Per 100": 45,
+   "Carbohydrates ()": 9.2,
+   "Fiber ()": 3.5,
+   "Fats()": 0.7,
+   "Proteins ()": 2.7
+ },
+ {
+   "S NO.": 374,
+   "Name": "Melons, raw, honeydew",
+   "Calories Per 100": 36,
+   "Carbohydrates ()": 9.09,
+   "Fiber ()": 0.8,
+   "Fats()": 0.1,
+   "Proteins ()": 0.54
+ },
+ {
+   "S NO.": 375,
+   "Name": "Potato salad with egg",
+   "Calories Per 100": 157,
+   "Carbohydrates ()": 16.18,
+   "Fiber ()": 1.3,
+   "Fats()": 9.4,
+   "Proteins ()": 1.96
+ },
+ {
+   "S NO.": 376,
+   "Name": "Mushrooms, raw, white",
+   "Calories Per 100": 22,
+   "Carbohydrates ()": 3.26,
+   "Fiber ()": 1,
+   "Fats()": 0.3,
+   "Proteins ()": 3.09
+ },
+ {
+   "S NO.": 377,
+   "Name": "Mushrooms, raw, morel",
+   "Calories Per 100": 31,
+   "Carbohydrates ()": 5.1,
+   "Fiber ()": 2.8,
+   "Fats()": 0.6,
+   "Proteins ()": 3.12
+ },
+ {
+   "S NO.": 378,
+   "Name": "Cheese, Mexican blend",
+   "Calories Per 100": 358,
+   "Carbohydrates ()": 1.75,
+   "Fiber ()": 0,
+   "Fats()": 29,
+   "Proteins ()": 23.54
+ },
+ {
+   "S NO.": 379,
+   "Name": "Oranges, Florida, raw",
+   "Calories Per 100": 46,
+   "Carbohydrates ()": 11.54,
+   "Fiber ()": 2.4,
+   "Fats()": 0.2,
+   "Proteins ()": 0.7
+ },
+ {
+   "S NO.": 380,
+   "Name": "SILK Vanilla, soymilk",
+   "Calories Per 100": 41,
+   "Carbohydrates ()": 4.12,
+   "Fiber ()": 0.4,
+   "Fats()": 1.4,
+   "Proteins ()": 2.47
+ },
+ {
+   "S NO.": 381,
+   "Name": "Papaya nectar, canned",
+   "Calories Per 100": 57,
+   "Carbohydrates ()": 14.51,
+   "Fiber ()": 0.6,
+   "Fats()": 0.2,
+   "Proteins ()": 0.17
+ },
+ {
+   "S NO.": 382,
+   "Name": "Fiddlehead ferns, raw",
+   "Calories Per 100": 34,
+   "Carbohydrates ()": 5.54,
+   "Fiber ()": 0,
+   "Fats()": 0.4,
+   "Proteins ()": 4.55
+ },
+ {
+   "S NO.": 383,
+   "Name": "SILK Peach soy yogurt",
+   "Calories Per 100": 94,
+   "Carbohydrates ()": 18.82,
+   "Fiber ()": 0.6,
+   "Fats()": 1.2,
+   "Proteins ()": 2.35
+ },
+ {
+   "S NO.": 384,
+   "Name": "SILK Plain soy yogurt",
+   "Calories Per 100": 66,
+   "Carbohydrates ()": 9.69,
+   "Fiber ()": 0.4,
+   "Fats()": 1.8,
+   "Proteins ()": 2.64
+ },
+ {
+   "S NO.": 385,
+   "Name": "PACE, Enchilada Sauce",
+   "Calories Per 100": 40,
+   "Carbohydrates ()": 8.33,
+   "Fiber ()": 1.7,
+   "Fats()": 0,
+   "Proteins ()": 1.67
+ },
+ {
+   "S NO.": 386,
+   "Name": "Yeast extract spread",
+   "Calories Per 100": 185,
+   "Carbohydrates ()": 20.42,
+   "Fiber ()": 6.5,
+   "Fats()": 0.9,
+   "Proteins ()": 23.88
+ },
+ {
+   "S NO.": 387,
+   "Name": "Tomatoes, raw, green",
+   "Calories Per 100": 23,
+   "Carbohydrates ()": 5.1,
+   "Fiber ()": 1.1,
+   "Fats()": 0.2,
+   "Proteins ()": 1.2
+ },
+ {
+   "S NO.": 388,
+   "Name": "Mollusks, raw, snail",
+   "Calories Per 100": 90,
+   "Carbohydrates ()": 2,
+   "Fiber ()": 0,
+   "Fats()": 1.4,
+   "Proteins ()": 16.1
+ },
+ {
+   "S NO.": 389,
+   "Name": "Emu, raw, fan fillet",
+   "Calories Per 100": 103,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 0.8,
+   "Proteins ()": 22.5
+ },
+ {
+   "S NO.": 390,
+   "Name": "Pasta, enriched, dry",
+   "Calories Per 100": 371,
+   "Carbohydrates ()": 74.67,
+   "Fiber ()": 3.2,
+   "Fats()": 1.5,
+   "Proteins ()": 13.04
+ },
+ {
+   "S NO.": 391,
+   "Name": "Cookies, gingersnaps",
+   "Calories Per 100": 416,
+   "Carbohydrates ()": 76.9,
+   "Fiber ()": 2.2,
+   "Fats()": 9.8,
+   "Proteins ()": 5.6
+ },
+ {
+   "S NO.": 392,
+   "Name": "Sour cream, fat free",
+   "Calories Per 100": 74,
+   "Carbohydrates ()": 15.6,
+   "Fiber ()": 0,
+   "Fats()": 0,
+   "Proteins ()": 3.1
+ },
+ {
+   "S NO.": 393,
+   "Name": "MURRAY, Honey Graham",
+   "Calories Per 100": 445,
+   "Carbohydrates ()": 75.7,
+   "Fiber ()": 2.7,
+   "Fats()": 13,
+   "Proteins ()": 5.9
+ },
+ {
+   "S NO.": 394,
+   "Name": "Frankfurter, chicken",
+   "Calories Per 100": 223,
+   "Carbohydrates ()": 2.74,
+   "Fiber ()": 0,
+   "Fats()": 16,
+   "Proteins ()": 15.51
+ },
+ {
+   "S NO.": 395,
+   "Name": "Ham, canned, chopped",
+   "Calories Per 100": 239,
+   "Carbohydrates ()": 0.26,
+   "Fiber ()": 0,
+   "Fats()": 19,
+   "Proteins ()": 16.06
+ },
+ {
+   "S NO.": 396,
+   "Name": "Spices, dried, thyme",
+   "Calories Per 100": 276,
+   "Carbohydrates ()": 63.94,
+   "Fiber ()": 37,
+   "Fats()": 7.4,
+   "Proteins ()": 9.11
+ },
+ {
+   "S NO.": 397,
+   "Name": "Carrot juice, canned",
+   "Calories Per 100": 40,
+   "Carbohydrates ()": 9.28,
+   "Fiber ()": 0.8,
+   "Fats()": 0.2,
+   "Proteins ()": 0.95
+ },
+ {
+   "S NO.": 398,
+   "Name": "Corn, dried (Navajo)",
+   "Calories Per 100": 386,
+   "Carbohydrates ()": 74.93,
+   "Fiber ()": 0,
+   "Fats()": 5.2,
+   "Proteins ()": 9.88
+ },
+ {
+   "S NO.": 399,
+   "Name": "Pate, truffle flavor",
+   "Calories Per 100": 327,
+   "Carbohydrates ()": 6.3,
+   "Fiber ()": 0,
+   "Fats()": 29,
+   "Proteins ()": 11.2
+ },
+ {
+   "S NO.": 400,
+   "Name": "Fruit butters, apple",
+   "Calories Per 100": 173,
+   "Carbohydrates ()": 42.47,
+   "Fiber ()": 1.5,
+   "Fats()": 0.3,
+   "Proteins ()": 0.39
+ },
+ {
+   "S NO.": 401,
+   "Name": "Fast foods, coleslaw",
+   "Calories Per 100": 153,
+   "Carbohydrates ()": 14.89,
+   "Fiber ()": 1.9,
+   "Fats()": 9.9,
+   "Proteins ()": 0.95
+ },
+ {
+   "S NO.": 402,
+   "Name": "Salami, beef, cooked",
+   "Calories Per 100": 261,
+   "Carbohydrates ()": 1.9,
+   "Fiber ()": 0,
+   "Fats()": 22,
+   "Proteins ()": 12.6
+ },
+ {
+   "S NO.": 403,
+   "Name": "Spices, chili powder",
+   "Calories Per 100": 282,
+   "Carbohydrates ()": 49.7,
+   "Fiber ()": 34.8,
+   "Fats()": 14,
+   "Proteins ()": 13.46
+ },
+ {
+   "S NO.": 404,
+   "Name": "Spices, caraway seed",
+   "Calories Per 100": 333,
+   "Carbohydrates ()": 49.9,
+   "Fiber ()": 38,
+   "Fats()": 15,
+   "Proteins ()": 19.77
+ },
+ {
+   "S NO.": 405,
+   "Name": "Spices, dried, basil",
+   "Calories Per 100": 233,
+   "Carbohydrates ()": 47.75,
+   "Fiber ()": 37.7,
+   "Fats()": 4.1,
+   "Proteins ()": 22.98
+ },
+ {
+   "S NO.": 406,
+   "Name": "Pickle relish, sweet",
+   "Calories Per 100": 130,
+   "Carbohydrates ()": 35.06,
+   "Fiber ()": 1.1,
+   "Fats()": 0.5,
+   "Proteins ()": 0.37
+ },
+ {
+   "S NO.": 407,
+   "Name": "Chives, freeze-dried",
+   "Calories Per 100": 311,
+   "Carbohydrates ()": 64.29,
+   "Fiber ()": 26.2,
+   "Fats()": 3.5,
+   "Proteins ()": 21.2
+ },
+ {
+   "S NO.": 408,
+   "Name": "Fish, raw, sablefish",
+   "Calories Per 100": 195,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 15,
+   "Proteins ()": 13.41
+ },
+ {
+   "S NO.": 409,
+   "Name": "Crackers, multigrain",
+   "Calories Per 100": 482,
+   "Carbohydrates ()": 67.6,
+   "Fiber ()": 3.5,
+   "Fats()": 20,
+   "Proteins ()": 7.1
+ },
+ {
+   "S NO.": 410,
+   "Name": "Spices, ground, mace",
+   "Calories Per 100": 475,
+   "Carbohydrates ()": 50.5,
+   "Fiber ()": 20.2,
+   "Fats()": 32,
+   "Proteins ()": 6.71
+ },
+ {
+   "S NO.": 411,
+   "Name": "Spices, onion powder",
+   "Calories Per 100": 341,
+   "Carbohydrates ()": 79.12,
+   "Fiber ()": 15.2,
+   "Fats()": 1,
+   "Proteins ()": 10.41
+ },
+ {
+   "S NO.": 412,
+   "Name": "Butter, without salt",
+   "Calories Per 100": 717,
+   "Carbohydrates ()": 0.06,
+   "Fiber ()": 0,
+   "Fats()": 81,
+   "Proteins ()": 0.85
+ },
+ {
+   "S NO.": 413,
+   "Name": "Rice noodles, cooked",
+   "Calories Per 100": 108,
+   "Carbohydrates ()": 24.01,
+   "Fiber ()": 1,
+   "Fats()": 0.2,
+   "Proteins ()": 1.79
+ },
+ {
+   "S NO.": 414,
+   "Name": "Barley flour or meal",
+   "Calories Per 100": 345,
+   "Carbohydrates ()": 74.52,
+   "Fiber ()": 10.1,
+   "Fats()": 1.6,
+   "Proteins ()": 10.5
+ },
+ {
+   "S NO.": 415,
+   "Name": "Sesbania flower, raw",
+   "Calories Per 100": 27,
+   "Carbohydrates ()": 6.73,
+   "Fiber ()": 0,
+   "Fats()": 0,
+   "Proteins ()": 1.28
+ },
+ {
+   "S NO.": 416,
+   "Name": "Garlic bread, frozen",
+   "Calories Per 100": 350,
+   "Carbohydrates ()": 41.72,
+   "Fiber ()": 2.5,
+   "Fats()": 17,
+   "Proteins ()": 8.36
+ },
+ {
+   "S NO.": 417,
+   "Name": "KFC, Popcorn Chicken",
+   "Calories Per 100": 351,
+   "Carbohydrates ()": 21.18,
+   "Fiber ()": 1,
+   "Fats()": 22,
+   "Proteins ()": 17.67
+ },
+ {
+   "S NO.": 418,
+   "Name": "APPLEBEE'S, coleslaw",
+   "Calories Per 100": 120,
+   "Carbohydrates ()": 13.17,
+   "Fiber ()": 2.8,
+   "Fats()": 7.1,
+   "Proteins ()": 0.79
+ },
+ {
+   "S NO.": 419,
+   "Name": "Rolls, sweet, dinner",
+   "Calories Per 100": 321,
+   "Carbohydrates ()": 53.58,
+   "Fiber ()": 3.1,
+   "Fats()": 7.4,
+   "Proteins ()": 10.04
+ },
+ {
+   "S NO.": 420,
+   "Name": "Cherries, raw, sweet",
+   "Calories Per 100": 63,
+   "Carbohydrates ()": 16.01,
+   "Fiber ()": 2.1,
+   "Fats()": 0.2,
+   "Proteins ()": 1.06
+ },
+ {
+   "S NO.": 421,
+   "Name": "Ostrich, raw, ground",
+   "Calories Per 100": 165,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 8.7,
+   "Proteins ()": 20.22
+ },
+ {
+   "S NO.": 422,
+   "Name": "SILK Coffee, soymilk",
+   "Calories Per 100": 62,
+   "Carbohydrates ()": 10.29,
+   "Fiber ()": 0,
+   "Fats()": 1.4,
+   "Proteins ()": 2.06
+ },
+ {
+   "S NO.": 423,
+   "Name": "Snacks, banana chips",
+   "Calories Per 100": 519,
+   "Carbohydrates ()": 58.4,
+   "Fiber ()": 7.7,
+   "Fats()": 34,
+   "Proteins ()": 2.3
+ },
+ {
+   "S NO.": 424,
+   "Name": "Peaches, raw, yellow",
+   "Calories Per 100": 39,
+   "Carbohydrates ()": 9.54,
+   "Fiber ()": 1.5,
+   "Fats()": 0.3,
+   "Proteins ()": 0.91
+ },
+ {
+   "S NO.": 425,
+   "Name": "Rolls, wheat, dinner",
+   "Calories Per 100": 273,
+   "Carbohydrates ()": 46,
+   "Fiber ()": 3.8,
+   "Fats()": 6.3,
+   "Proteins ()": 8.6
+ },
+ {
+   "S NO.": 426,
+   "Name": "Candies, HEATH BITES",
+   "Calories Per 100": 530,
+   "Carbohydrates ()": 63.39,
+   "Fiber ()": 2,
+   "Fats()": 30,
+   "Proteins ()": 3.94
+ },
+ {
+   "S NO.": 427,
+   "Name": "Chicken, raw, ground",
+   "Calories Per 100": 143,
+   "Carbohydrates ()": 0.04,
+   "Fiber ()": 0,
+   "Fats()": 8.1,
+   "Proteins ()": 17.44
+ },
+ {
+   "S NO.": 428,
+   "Name": "Pears, bartlett, raw",
+   "Calories Per 100": 63,
+   "Carbohydrates ()": 15.01,
+   "Fiber ()": 3.1,
+   "Fats()": 0.2,
+   "Proteins ()": 0.39
+ },
+ {
+   "S NO.": 429,
+   "Name": "Toppings, strawberry",
+   "Calories Per 100": 254,
+   "Carbohydrates ()": 66.3,
+   "Fiber ()": 0.7,
+   "Fats()": 0.1,
+   "Proteins ()": 0.2
+ },
+ {
+   "S NO.": 430,
+   "Name": "KEEBLER, Sugar Cones",
+   "Calories Per 100": 375,
+   "Carbohydrates ()": 78,
+   "Fiber ()": 2.1,
+   "Fats()": 3.7,
+   "Proteins ()": 7.3
+ },
+ {
+   "S NO.": 431,
+   "Name": "Seaweed, raw, wakame",
+   "Calories Per 100": 45,
+   "Carbohydrates ()": 9.14,
+   "Fiber ()": 0.5,
+   "Fats()": 0.6,
+   "Proteins ()": 3.03
+ },
+ {
+   "S NO.": 432,
+   "Name": "Seaweed, dried, agar",
+   "Calories Per 100": 306,
+   "Carbohydrates ()": 80.88,
+   "Fiber ()": 7.7,
+   "Fats()": 0.3,
+   "Proteins ()": 6.21
+ },
+ {
+   "S NO.": 433,
+   "Name": "Bread, cracked-wheat",
+   "Calories Per 100": 260,
+   "Carbohydrates ()": 49.5,
+   "Fiber ()": 5.5,
+   "Fats()": 3.9,
+   "Proteins ()": 8.7
+ },
+ {
+   "S NO.": 434,
+   "Name": "Amaranth leaves, raw",
+   "Calories Per 100": 23,
+   "Carbohydrates ()": 4.02,
+   "Fiber ()": 0,
+   "Fats()": 0.3,
+   "Proteins ()": 2.46
+ },
+ {
+   "S NO.": 435,
+   "Name": "Barley, raw, pearled",
+   "Calories Per 100": 352,
+   "Carbohydrates ()": 77.72,
+   "Fiber ()": 15.6,
+   "Fats()": 1.2,
+   "Proteins ()": 9.91
+ },
+ {
+   "S NO.": 436,
+   "Name": "Polish sausage, pork",
+   "Calories Per 100": 326,
+   "Carbohydrates ()": 1.63,
+   "Fiber ()": 0,
+   "Fats()": 29,
+   "Proteins ()": 14.1
+ },
+ {
+   "S NO.": 437,
+   "Name": "Spices, curry powder",
+   "Calories Per 100": 325,
+   "Carbohydrates ()": 55.83,
+   "Fiber ()": 53.2,
+   "Fats()": 14,
+   "Proteins ()": 14.29
+ },
+ {
+   "S NO.": 438,
+   "Name": "Bacon bits, meatless",
+   "Calories Per 100": 476,
+   "Carbohydrates ()": 28.6,
+   "Fiber ()": 10.2,
+   "Fats()": 26,
+   "Proteins ()": 32
+ },
+ {
+   "S NO.": 439,
+   "Name": "Semolina, unenriched",
+   "Calories Per 100": 360,
+   "Carbohydrates ()": 72.83,
+   "Fiber ()": 3.9,
+   "Fats()": 1.1,
+   "Proteins ()": 12.68
+ },
+ {
+   "S NO.": 440,
+   "Name": "Grape leaves, canned",
+   "Calories Per 100": 69,
+   "Carbohydrates ()": 11.71,
+   "Fiber ()": 9.9,
+   "Fats()": 2,
+   "Proteins ()": 4.27
+ },
+ {
+   "S NO.": 441,
+   "Name": "Spices, ground, sage",
+   "Calories Per 100": 315,
+   "Carbohydrates ()": 60.73,
+   "Fiber ()": 40.3,
+   "Fats()": 13,
+   "Proteins ()": 10.63
+ },
+ {
+   "S NO.": 442,
+   "Name": "PACE, Red Taco Sauce",
+   "Calories Per 100": 50,
+   "Carbohydrates ()": 12.5,
+   "Fiber ()": 0,
+   "Fats()": 0,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 443,
+   "Name": "DENNY'S, hash browns",
+   "Calories Per 100": 197,
+   "Carbohydrates ()": 26.59,
+   "Fiber ()": 2.7,
+   "Fats()": 9,
+   "Proteins ()": 2.49
+ },
+ {
+   "S NO.": 444,
+   "Name": "DENNY'S, onion rings",
+   "Calories Per 100": 385,
+   "Carbohydrates ()": 41.05,
+   "Fiber ()": 2.4,
+   "Fats()": 22,
+   "Proteins ()": 5.29
+ },
+ {
+   "S NO.": 445,
+   "Name": "Ostrich, raw, oyster",
+   "Calories Per 100": 125,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 3.7,
+   "Proteins ()": 21.55
+ },
+ {
+   "S NO.": 446,
+   "Name": "Oil, corn and canola",
+   "Calories Per 100": 884,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 100,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 447,
+   "Name": "Pumpkin flowers, raw",
+   "Calories Per 100": 15,
+   "Carbohydrates ()": 3.28,
+   "Fiber ()": 0,
+   "Fats()": 0.1,
+   "Proteins ()": 1.03
+ },
+ {
+   "S NO.": 448,
+   "Name": "Celery flakes, dried",
+   "Calories Per 100": 319,
+   "Carbohydrates ()": 63.7,
+   "Fiber ()": 27.8,
+   "Fats()": 2.1,
+   "Proteins ()": 11.3
+ },
+ {
+   "S NO.": 449,
+   "Name": "Crackers, egg, matzo",
+   "Calories Per 100": 391,
+   "Carbohydrates ()": 78.6,
+   "Fiber ()": 2.8,
+   "Fats()": 2.1,
+   "Proteins ()": 12.3
+ },
+ {
+   "S NO.": 450,
+   "Name": "Loganberries, frozen",
+   "Calories Per 100": 55,
+   "Carbohydrates ()": 13.02,
+   "Fiber ()": 5.3,
+   "Fats()": 0.3,
+   "Proteins ()": 1.52
+ },
+ {
+   "S NO.": 451,
+   "Name": "Tangerine juice, raw",
+   "Calories Per 100": 43,
+   "Carbohydrates ()": 10.1,
+   "Fiber ()": 0.2,
+   "Fats()": 0.2,
+   "Proteins ()": 0.5
+ },
+ {
+   "S NO.": 452,
+   "Name": "Soybeans, raw, green",
+   "Calories Per 100": 147,
+   "Carbohydrates ()": 11.05,
+   "Fiber ()": 4.2,
+   "Fats()": 6.8,
+   "Proteins ()": 12.95
+ },
+ {
+   "S NO.": 453,
+   "Name": "Soybean, curd cheese",
+   "Calories Per 100": 151,
+   "Carbohydrates ()": 6.9,
+   "Fiber ()": 0,
+   "Fats()": 8.1,
+   "Proteins ()": 12.5
+ },
+ {
+   "S NO.": 454,
+   "Name": "Game meat, raw, bear",
+   "Calories Per 100": 161,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 8.3,
+   "Proteins ()": 20.1
+ },
+ {
+   "S NO.": 455,
+   "Name": "Game meat, raw, deer",
+   "Calories Per 100": 120,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 2.4,
+   "Proteins ()": 22.96
+ },
+ {
+   "S NO.": 456,
+   "Name": "Oranges, navels, raw",
+   "Calories Per 100": 49,
+   "Carbohydrates ()": 12.54,
+   "Fiber ()": 2.2,
+   "Fats()": 0.2,
+   "Proteins ()": 0.91
+ },
+ {
+   "S NO.": 457,
+   "Name": "Tostada shells, corn",
+   "Calories Per 100": 474,
+   "Carbohydrates ()": 64.43,
+   "Fiber ()": 5.8,
+   "Fats()": 23,
+   "Proteins ()": 6.15
+ },
+ {
+   "S NO.": 458,
+   "Name": "Fish, raw, swordfish",
+   "Calories Per 100": 144,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 6.7,
+   "Proteins ()": 19.66
+ },
+ {
+   "S NO.": 459,
+   "Name": "Taro, raw, tahitian",
+   "Calories Per 100": 44,
+   "Carbohydrates ()": 6.91,
+   "Fiber ()": 0,
+   "Fats()": 1,
+   "Proteins ()": 2.79
+ },
+ {
+   "S NO.": 460,
+   "Name": "Chicory greens, raw",
+   "Calories Per 100": 23,
+   "Carbohydrates ()": 4.7,
+   "Fiber ()": 4,
+   "Fats()": 0.3,
+   "Proteins ()": 1.7
+ },
+ {
+   "S NO.": 461,
+   "Name": "Hearts of palm, raw",
+   "Calories Per 100": 115,
+   "Carbohydrates ()": 25.61,
+   "Fiber ()": 1.5,
+   "Fats()": 0.2,
+   "Proteins ()": 2.7
+ },
+ {
+   "S NO.": 462,
+   "Name": "Chayote, raw, fruit",
+   "Calories Per 100": 19,
+   "Carbohydrates ()": 4.51,
+   "Fiber ()": 1.7,
+   "Fats()": 0.1,
+   "Proteins ()": 0.82
+ },
+ {
+   "S NO.": 463,
+   "Name": "Fish, smoked, cisco",
+   "Calories Per 100": 177,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 12,
+   "Proteins ()": 16.36
+ },
+ {
+   "S NO.": 464,
+   "Name": "Frankfurter, turkey",
+   "Calories Per 100": 223,
+   "Carbohydrates ()": 3.81,
+   "Fiber ()": 0,
+   "Fats()": 17,
+   "Proteins ()": 12.23
+ },
+ {
+   "S NO.": 465,
+   "Name": "Candies, jellybeans",
+   "Calories Per 100": 375,
+   "Carbohydrates ()": 93.55,
+   "Fiber ()": 0.2,
+   "Fats()": 0.1,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 466,
+   "Name": "Oil, ucuhuba butter",
+   "Calories Per 100": 884,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 100,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 467,
+   "Name": "Soy protein isolate",
+   "Calories Per 100": 335,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 3.4,
+   "Proteins ()": 88.32
+ },
+ {
+   "S NO.": 468,
+   "Name": "Syrups, light, corn",
+   "Calories Per 100": 283,
+   "Carbohydrates ()": 76.79,
+   "Fiber ()": 0,
+   "Fats()": 0.2,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 469,
+   "Name": "Fish, raw, milkfish",
+   "Calories Per 100": 148,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 6.7,
+   "Proteins ()": 20.53
+ },
+ {
+   "S NO.": 470,
+   "Name": "Fish, raw, monkfish",
+   "Calories Per 100": 76,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 1.5,
+   "Proteins ()": 14.48
+ },
+ {
+   "S NO.": 471,
+   "Name": "Mother's loaf, pork",
+   "Calories Per 100": 282,
+   "Carbohydrates ()": 7.53,
+   "Fiber ()": 0,
+   "Fats()": 22,
+   "Proteins ()": 12.07
+ },
+ {
+   "S NO.": 472,
+   "Name": "Tapioca, dry, pearl",
+   "Calories Per 100": 358,
+   "Carbohydrates ()": 88.69,
+   "Fiber ()": 0.9,
+   "Fats()": 0,
+   "Proteins ()": 0.19
+ },
+ {
+   "S NO.": 473,
+   "Name": "Guavas, raw, common",
+   "Calories Per 100": 68,
+   "Carbohydrates ()": 14.32,
+   "Fiber ()": 5.4,
+   "Fats()": 1,
+   "Proteins ()": 2.55
+ },
+ {
+   "S NO.": 474,
+   "Name": "Spices, celery seed",
+   "Calories Per 100": 392,
+   "Carbohydrates ()": 41.35,
+   "Fiber ()": 11.8,
+   "Fats()": 25,
+   "Proteins ()": 18.07
+ },
+ {
+   "S NO.": 475,
+   "Name": "Candies, peanut bar",
+   "Calories Per 100": 522,
+   "Carbohydrates ()": 47.4,
+   "Fiber ()": 4.1,
+   "Fats()": 34,
+   "Proteins ()": 15.5
+ },
+ {
+   "S NO.": 476,
+   "Name": "Bread, toasted, rye",
+   "Calories Per 100": 284,
+   "Carbohydrates ()": 53.1,
+   "Fiber ()": 6.4,
+   "Fats()": 3.6,
+   "Proteins ()": 9.4
+ },
+ {
+   "S NO.": 477,
+   "Name": "Oil, apricot kernel",
+   "Calories Per 100": 884,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 100,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 478,
+   "Name": "Candies, YORK BITES",
+   "Calories Per 100": 394,
+   "Carbohydrates ()": 81.64,
+   "Fiber ()": 2,
+   "Fats()": 7.3,
+   "Proteins ()": 1.78
+ },
+ {
+   "S NO.": 479,
+   "Name": "Meatballs, meatless",
+   "Calories Per 100": 197,
+   "Carbohydrates ()": 8,
+   "Fiber ()": 4.6,
+   "Fats()": 9,
+   "Proteins ()": 21
+ },
+ {
+   "S NO.": 480,
+   "Name": "Emu, raw, full rump",
+   "Calories Per 100": 112,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 1.6,
+   "Proteins ()": 22.83
+ },
+ {
+   "S NO.": 481,
+   "Name": "Mustard greens, raw",
+   "Calories Per 100": 27,
+   "Carbohydrates ()": 4.67,
+   "Fiber ()": 3.2,
+   "Fats()": 0.4,
+   "Proteins ()": 2.86
+ },
+ {
+   "S NO.": 482,
+   "Name": "Seaweed, raw, laver",
+   "Calories Per 100": 35,
+   "Carbohydrates ()": 5.11,
+   "Fiber ()": 0.3,
+   "Fats()": 0.3,
+   "Proteins ()": 5.81
+ },
+ {
+   "S NO.": 483,
+   "Name": "Sweet rolls, cheese",
+   "Calories Per 100": 360,
+   "Carbohydrates ()": 43.7,
+   "Fiber ()": 1.2,
+   "Fats()": 18,
+   "Proteins ()": 7.1
+ },
+ {
+   "S NO.": 484,
+   "Name": "Figs, stewed, dried",
+   "Calories Per 100": 107,
+   "Carbohydrates ()": 27.57,
+   "Fiber ()": 4.2,
+   "Fats()": 0.4,
+   "Proteins ()": 1.42
+ },
+ {
+   "S NO.": 485,
+   "Name": "Bread sticks, plain",
+   "Calories Per 100": 412,
+   "Carbohydrates ()": 68.4,
+   "Fiber ()": 3,
+   "Fats()": 9.5,
+   "Proteins ()": 12
+ },
+ {
+   "S NO.": 486,
+   "Name": "SILK Mocha, soymilk",
+   "Calories Per 100": 58,
+   "Carbohydrates ()": 9.05,
+   "Fiber ()": 0,
+   "Fats()": 1.4,
+   "Proteins ()": 2.06
+ },
+ {
+   "S NO.": 487,
+   "Name": "Milk and cereal bar",
+   "Calories Per 100": 413,
+   "Carbohydrates ()": 72.05,
+   "Fiber ()": 0.4,
+   "Fats()": 11,
+   "Proteins ()": 6.47
+ },
+ {
+   "S NO.": 488,
+   "Name": "Bread, pumpernickel",
+   "Calories Per 100": 250,
+   "Carbohydrates ()": 47.5,
+   "Fiber ()": 6.5,
+   "Fats()": 3.1,
+   "Proteins ()": 8.7
+ },
+ {
+   "S NO.": 489,
+   "Name": "Game meat, raw, elk",
+   "Calories Per 100": 111,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 1.5,
+   "Proteins ()": 22.95
+ },
+ {
+   "S NO.": 490,
+   "Name": "PACE, Pico De Gallo",
+   "Calories Per 100": 31,
+   "Carbohydrates ()": 9.38,
+   "Fiber ()": 0,
+   "Fats()": 0,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 491,
+   "Name": "Ostrich, raw, round",
+   "Calories Per 100": 116,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 2.4,
+   "Proteins ()": 21.99
+ },
+ {
+   "S NO.": 492,
+   "Name": "HORMEL, Cure 81 Ham",
+   "Calories Per 100": 106,
+   "Carbohydrates ()": 0.21,
+   "Fiber ()": 0,
+   "Fats()": 3.6,
+   "Proteins ()": 18.43
+ },
+ {
+   "S NO.": 493,
+   "Name": "Prune juice, canned",
+   "Calories Per 100": 71,
+   "Carbohydrates ()": 17.45,
+   "Fiber ()": 1,
+   "Fats()": 0,
+   "Proteins ()": 0.61
+ },
+ {
+   "S NO.": 494,
+   "Name": "McDONALD'S, BIG MAC",
+   "Calories Per 100": 257,
+   "Carbohydrates ()": 20.08,
+   "Fiber ()": 1.6,
+   "Fats()": 15,
+   "Proteins ()": 11.82
+ },
+ {
+   "S NO.": 495,
+   "Name": "Soy flour, defatted",
+   "Calories Per 100": 327,
+   "Carbohydrates ()": 33.92,
+   "Fiber ()": 17.5,
+   "Fats()": 1.2,
+   "Proteins ()": 51.46
+ },
+ {
+   "S NO.": 496,
+   "Name": "Bread, toasted, egg",
+   "Calories Per 100": 315,
+   "Carbohydrates ()": 52.6,
+   "Fiber ()": 2.5,
+   "Fats()": 6.6,
+   "Proteins ()": 10.5
+ },
+ {
+   "S NO.": 497,
+   "Name": "Fish, raw, mahimahi",
+   "Calories Per 100": 85,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 0.7,
+   "Proteins ()": 18.5
+ },
+ {
+   "S NO.": 498,
+   "Name": "Fish, raw, bluefish",
+   "Calories Per 100": 124,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 4.2,
+   "Proteins ()": 20.04
+ },
+ {
+   "S NO.": 499,
+   "Name": "Spices, fennel seed",
+   "Calories Per 100": 345,
+   "Carbohydrates ()": 52.29,
+   "Fiber ()": 39.8,
+   "Fats()": 15,
+   "Proteins ()": 15.8
+ },
+ {
+   "S NO.": 500,
+   "Name": "Potatoes, skin, raw",
+   "Calories Per 100": 58,
+   "Carbohydrates ()": 12.44,
+   "Fiber ()": 2.5,
+   "Fats()": 0.1,
+   "Proteins ()": 2.57
+ },
+ {
+   "S NO.": 501,
+   "Name": "Pepper, raw, banana",
+   "Calories Per 100": 27,
+   "Carbohydrates ()": 5.35,
+   "Fiber ()": 3.4,
+   "Fats()": 0.5,
+   "Proteins ()": 1.66
+ },
+ {
+   "S NO.": 502,
+   "Name": "Drumstick pods, raw",
+   "Calories Per 100": 37,
+   "Carbohydrates ()": 8.53,
+   "Fiber ()": 3.2,
+   "Fats()": 0.2,
+   "Proteins ()": 2.1
+ },
+ {
+   "S NO.": 503,
+   "Name": "Toppings, pineapple",
+   "Calories Per 100": 253,
+   "Carbohydrates ()": 66.4,
+   "Fiber ()": 0.4,
+   "Fats()": 0.1,
+   "Proteins ()": 0.1
+ },
+ {
+   "S NO.": 504,
+   "Name": "Acorn stew (Apache)",
+   "Calories Per 100": 95,
+   "Carbohydrates ()": 9.22,
+   "Fiber ()": 0.7,
+   "Fats()": 3.5,
+   "Proteins ()": 6.81
+ },
+ {
+   "S NO.": 505,
+   "Name": "Tomatoes, sun-dried",
+   "Calories Per 100": 258,
+   "Carbohydrates ()": 55.76,
+   "Fiber ()": 12.3,
+   "Fats()": 3,
+   "Proteins ()": 14.11
+ },
+ {
+   "S NO.": 506,
+   "Name": "Guava sauce, cooked",
+   "Calories Per 100": 36,
+   "Carbohydrates ()": 9.48,
+   "Fiber ()": 3.6,
+   "Fats()": 0.1,
+   "Proteins ()": 0.32
+ },
+ {
+   "S NO.": 507,
+   "Name": "Pumpkin leaves, raw",
+   "Calories Per 100": 19,
+   "Carbohydrates ()": 2.33,
+   "Fiber ()": 0,
+   "Fats()": 0.4,
+   "Proteins ()": 3.15
+ },
+ {
+   "S NO.": 508,
+   "Name": "Melons, raw, casaba",
+   "Calories Per 100": 28,
+   "Carbohydrates ()": 6.58,
+   "Fiber ()": 0.9,
+   "Fats()": 0.1,
+   "Proteins ()": 1.11
+ },
+ {
+   "S NO.": 509,
+   "Name": "Melon balls, frozen",
+   "Calories Per 100": 33,
+   "Carbohydrates ()": 7.94,
+   "Fiber ()": 0.7,
+   "Fats()": 0.3,
+   "Proteins ()": 0.84
+ },
+ {
+   "S NO.": 510,
+   "Name": "Fish oil, cod liver",
+   "Calories Per 100": 902,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 100,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 511,
+   "Name": "Nuts, dried, acorns",
+   "Calories Per 100": 509,
+   "Carbohydrates ()": 53.66,
+   "Fiber ()": 0,
+   "Fats()": 31,
+   "Proteins ()": 8.1
+ },
+ {
+   "S NO.": 512,
+   "Name": "Rolls, pumpernickel",
+   "Calories Per 100": 276,
+   "Carbohydrates ()": 51.87,
+   "Fiber ()": 5.4,
+   "Fats()": 2.8,
+   "Proteins ()": 10.8
+ },
+ {
+   "S NO.": 513,
+   "Name": "Gravy, dry, chicken",
+   "Calories Per 100": 381,
+   "Carbohydrates ()": 62.09,
+   "Fiber ()": 0,
+   "Fats()": 9.7,
+   "Proteins ()": 11.27
+ },
+ {
+   "S NO.": 514,
+   "Name": "Fish, raw, tilefish",
+   "Calories Per 100": 96,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 2.3,
+   "Proteins ()": 17.5
+ },
+ {
+   "S NO.": 515,
+   "Name": "Ice creams, vanilla",
+   "Calories Per 100": 207,
+   "Carbohydrates ()": 23.6,
+   "Fiber ()": 0.7,
+   "Fats()": 11,
+   "Proteins ()": 3.5
+ },
+ {
+   "S NO.": 516,
+   "Name": "SILK Plain, soymilk",
+   "Calories Per 100": 41,
+   "Carbohydrates ()": 3.29,
+   "Fiber ()": 0.4,
+   "Fats()": 1.7,
+   "Proteins ()": 2.88
+ },
+ {
+   "S NO.": 517,
+   "Name": "Cabbage, raw, savoy",
+   "Calories Per 100": 27,
+   "Carbohydrates ()": 6.1,
+   "Fiber ()": 3.1,
+   "Fats()": 0.1,
+   "Proteins ()": 2
+ },
+ {
+   "S NO.": 518,
+   "Name": "Fish, raw, tilapia",
+   "Calories Per 100": 96,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 1.7,
+   "Proteins ()": 20.08
+ },
+ {
+   "S NO.": 519,
+   "Name": "Broccoli raab, raw",
+   "Calories Per 100": 22,
+   "Carbohydrates ()": 2.85,
+   "Fiber ()": 2.7,
+   "Fats()": 0.5,
+   "Proteins ()": 3.17
+ },
+ {
+   "S NO.": 520,
+   "Name": "Corn grain, yellow",
+   "Calories Per 100": 365,
+   "Carbohydrates ()": 74.26,
+   "Fiber ()": 7.3,
+   "Fats()": 4.7,
+   "Proteins ()": 9.42
+ },
+ {
+   "S NO.": 521,
+   "Name": "Turtle, raw, green",
+   "Calories Per 100": 89,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 0.5,
+   "Proteins ()": 19.8
+ },
+ {
+   "S NO.": 522,
+   "Name": "Chicory roots, raw",
+   "Calories Per 100": 72,
+   "Carbohydrates ()": 17.51,
+   "Fiber ()": 1.5,
+   "Fats()": 0.2,
+   "Proteins ()": 1.4
+ },
+ {
+   "S NO.": 523,
+   "Name": "Ice cream sandwich",
+   "Calories Per 100": 237,
+   "Carbohydrates ()": 37.14,
+   "Fiber ()": 0,
+   "Fats()": 8.6,
+   "Proteins ()": 4.29
+ },
+ {
+   "S NO.": 524,
+   "Name": "Croutons, seasoned",
+   "Calories Per 100": 465,
+   "Carbohydrates ()": 63.5,
+   "Fiber ()": 5,
+   "Fats()": 18,
+   "Proteins ()": 10.8
+ },
+ {
+   "S NO.": 525,
+   "Name": "Snacks, taro chips",
+   "Calories Per 100": 498,
+   "Carbohydrates ()": 68.1,
+   "Fiber ()": 7.2,
+   "Fats()": 25,
+   "Proteins ()": 2.3
+ },
+ {
+   "S NO.": 526,
+   "Name": "Prickly pears, raw",
+   "Calories Per 100": 41,
+   "Carbohydrates ()": 9.57,
+   "Fiber ()": 3.6,
+   "Fats()": 0.5,
+   "Proteins ()": 0.73
+ },
+ {
+   "S NO.": 527,
+   "Name": "Fish, raw, haddock",
+   "Calories Per 100": 74,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 0.5,
+   "Proteins ()": 16.32
+ },
+ {
+   "S NO.": 528,
+   "Name": "Liver cheese, pork",
+   "Calories Per 100": 304,
+   "Carbohydrates ()": 2.1,
+   "Fiber ()": 0,
+   "Fats()": 26,
+   "Proteins ()": 15.2
+ },
+ {
+   "S NO.": 529,
+   "Name": "Ground turkey, raw",
+   "Calories Per 100": 148,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 7.7,
+   "Proteins ()": 19.66
+ },
+ {
+   "S NO.": 530,
+   "Name": "Jams and preserves",
+   "Calories Per 100": 278,
+   "Carbohydrates ()": 68.86,
+   "Fiber ()": 1.1,
+   "Fats()": 0.1,
+   "Proteins ()": 0.37
+ },
+ {
+   "S NO.": 531,
+   "Name": "Carrots, raw, baby",
+   "Calories Per 100": 35,
+   "Carbohydrates ()": 8.24,
+   "Fiber ()": 2.9,
+   "Fats()": 0.1,
+   "Proteins ()": 0.64
+ },
+ {
+   "S NO.": 532,
+   "Name": "Oil, nutmeg butter",
+   "Calories Per 100": 884,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 100,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 533,
+   "Name": "Semolina, enriched",
+   "Calories Per 100": 360,
+   "Carbohydrates ()": 72.83,
+   "Fiber ()": 3.9,
+   "Fats()": 1.1,
+   "Proteins ()": 12.68
+ },
+ {
+   "S NO.": 534,
+   "Name": "Spices, anise seed",
+   "Calories Per 100": 337,
+   "Carbohydrates ()": 50.02,
+   "Fiber ()": 14.6,
+   "Fats()": 16,
+   "Proteins ()": 17.6
+ },
+ {
+   "S NO.": 535,
+   "Name": "Snacks, corn cakes",
+   "Calories Per 100": 387,
+   "Carbohydrates ()": 83.4,
+   "Fiber ()": 1.9,
+   "Fats()": 2.4,
+   "Proteins ()": 8.1
+ },
+ {
+   "S NO.": 536,
+   "Name": "Catsup, low sodium",
+   "Calories Per 100": 101,
+   "Carbohydrates ()": 27.4,
+   "Fiber ()": 0.3,
+   "Fats()": 0.1,
+   "Proteins ()": 1.04
+ },
+ {
+   "S NO.": 537,
+   "Name": "Croissants, cheese",
+   "Calories Per 100": 414,
+   "Carbohydrates ()": 47,
+   "Fiber ()": 2.6,
+   "Fats()": 21,
+   "Proteins ()": 9.2
+ },
+ {
+   "S NO.": 538,
+   "Name": "Milk, fluid, sheep",
+   "Calories Per 100": 108,
+   "Carbohydrates ()": 5.36,
+   "Fiber ()": 0,
+   "Fats()": 7,
+   "Proteins ()": 5.98
+ },
+ {
+   "S NO.": 539,
+   "Name": "Acerola juice, raw",
+   "Calories Per 100": 23,
+   "Carbohydrates ()": 4.8,
+   "Fiber ()": 0.3,
+   "Fats()": 0.3,
+   "Proteins ()": 0.4
+ },
+ {
+   "S NO.": 540,
+   "Name": "Jute, raw, potherb",
+   "Calories Per 100": 34,
+   "Carbohydrates ()": 5.8,
+   "Fiber ()": 0,
+   "Fats()": 0.3,
+   "Proteins ()": 4.65
+ },
+ {
+   "S NO.": 541,
+   "Name": "Fast food, biscuit",
+   "Calories Per 100": 370,
+   "Carbohydrates ()": 42.82,
+   "Fiber ()": 2.5,
+   "Fats()": 19,
+   "Proteins ()": 7.08
+ },
+ {
+   "S NO.": 542,
+   "Name": "Bagels, multigrain",
+   "Calories Per 100": 241,
+   "Carbohydrates ()": 47.47,
+   "Fiber ()": 6.2,
+   "Fats()": 1.2,
+   "Proteins ()": 9.9
+ },
+ {
+   "S NO.": 543,
+   "Name": "Beef, dried, cured",
+   "Calories Per 100": 153,
+   "Carbohydrates ()": 2.76,
+   "Fiber ()": 0,
+   "Fats()": 1.9,
+   "Proteins ()": 31.1
+ },
+ {
+   "S NO.": 544,
+   "Name": "Nuts, almond paste",
+   "Calories Per 100": 458,
+   "Carbohydrates ()": 47.81,
+   "Fiber ()": 4.8,
+   "Fats()": 28,
+   "Proteins ()": 9
+ },
+ {
+   "S NO.": 545,
+   "Name": "Seaweed, raw, kelp",
+   "Calories Per 100": 43,
+   "Carbohydrates ()": 9.57,
+   "Fiber ()": 1.3,
+   "Fats()": 0.6,
+   "Proteins ()": 1.68
+ },
+ {
+   "S NO.": 546,
+   "Name": "Seaweed, raw, agar",
+   "Calories Per 100": 26,
+   "Carbohydrates ()": 6.75,
+   "Fiber ()": 0.5,
+   "Fats()": 0,
+   "Proteins ()": 0.54
+ },
+ {
+   "S NO.": 547,
+   "Name": "Fish oil, menhaden",
+   "Calories Per 100": 902,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 100,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 548,
+   "Name": "Rolls, egg, dinner",
+   "Calories Per 100": 307,
+   "Carbohydrates ()": 52,
+   "Fiber ()": 3.7,
+   "Fats()": 6.4,
+   "Proteins ()": 9.5
+ },
+ {
+   "S NO.": 549,
+   "Name": "Bread, white wheat",
+   "Calories Per 100": 238,
+   "Carbohydrates ()": 43.91,
+   "Fiber ()": 9.2,
+   "Fats()": 2.2,
+   "Proteins ()": 10.66
+ },
+ {
+   "S NO.": 550,
+   "Name": "Onions, raw, sweet",
+   "Calories Per 100": 32,
+   "Carbohydrates ()": 7.55,
+   "Fiber ()": 0.9,
+   "Fats()": 0.1,
+   "Proteins ()": 0.8
+ },
+ {
+   "S NO.": 551,
+   "Name": "Onions, raw, welsh",
+   "Calories Per 100": 34,
+   "Carbohydrates ()": 6.5,
+   "Fiber ()": 2.4,
+   "Fats()": 0.4,
+   "Proteins ()": 1.9
+ },
+ {
+   "S NO.": 552,
+   "Name": "SILK Chai, soymilk",
+   "Calories Per 100": 53,
+   "Carbohydrates ()": 7.82,
+   "Fiber ()": 0,
+   "Fats()": 1.4,
+   "Proteins ()": 2.47
+ },
+ {
+   "S NO.": 553,
+   "Name": "Rolls, rye, dinner",
+   "Calories Per 100": 286,
+   "Carbohydrates ()": 53.1,
+   "Fiber ()": 4.9,
+   "Fats()": 3.4,
+   "Proteins ()": 10.3
+ },
+ {
+   "S NO.": 554,
+   "Name": "Gravy, dry, au jus",
+   "Calories Per 100": 313,
+   "Carbohydrates ()": 47.49,
+   "Fiber ()": 0,
+   "Fats()": 9.6,
+   "Proteins ()": 9.2
+ },
+ {
+   "S NO.": 555,
+   "Name": "Cheese, neufchatel",
+   "Calories Per 100": 253,
+   "Carbohydrates ()": 3.59,
+   "Fiber ()": 0,
+   "Fats()": 23,
+   "Proteins ()": 9.15
+ },
+ {
+   "S NO.": 556,
+   "Name": "Hummus, commercial",
+   "Calories Per 100": 166,
+   "Carbohydrates ()": 14.29,
+   "Fiber ()": 6,
+   "Fats()": 9.6,
+   "Proteins ()": 7.9
+ },
+ {
+   "S NO.": 557,
+   "Name": "Croissants, butter",
+   "Calories Per 100": 406,
+   "Carbohydrates ()": 45.8,
+   "Fiber ()": 2.6,
+   "Fats()": 21,
+   "Proteins ()": 8.2
+ },
+ {
+   "S NO.": 558,
+   "Name": "Carrot, dehydrated",
+   "Calories Per 100": 341,
+   "Carbohydrates ()": 79.57,
+   "Fiber ()": 23.6,
+   "Fats()": 1.5,
+   "Proteins ()": 8.1
+ },
+ {
+   "S NO.": 559,
+   "Name": "Vinegar, distilled",
+   "Calories Per 100": 18,
+   "Carbohydrates ()": 0.04,
+   "Fiber ()": 0,
+   "Fats()": 0,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 560,
+   "Name": "Sapote, raw, mamey",
+   "Calories Per 100": 124,
+   "Carbohydrates ()": 32.1,
+   "Fiber ()": 5.4,
+   "Fats()": 0.5,
+   "Proteins ()": 1.45
+ },
+ {
+   "S NO.": 561,
+   "Name": "Soy flour, low-fat",
+   "Calories Per 100": 372,
+   "Carbohydrates ()": 30.63,
+   "Fiber ()": 16,
+   "Fats()": 8.9,
+   "Proteins ()": 49.81
+ },
+ {
+   "S NO.": 562,
+   "Name": "Syrups, sugar free",
+   "Calories Per 100": 52,
+   "Carbohydrates ()": 12.13,
+   "Fiber ()": 0.7,
+   "Fats()": 0,
+   "Proteins ()": 0.8
+ },
+ {
+   "S NO.": 563,
+   "Name": "Syrups, dark, corn",
+   "Calories Per 100": 286,
+   "Carbohydrates ()": 77.59,
+   "Fiber ()": 0,
+   "Fats()": 0,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 564,
+   "Name": "Taco shells, baked",
+   "Calories Per 100": 476,
+   "Carbohydrates ()": 63.49,
+   "Fiber ()": 6.7,
+   "Fats()": 22,
+   "Proteins ()": 6.41
+ },
+ {
+   "S NO.": 565,
+   "Name": "Spices, cumin seed",
+   "Calories Per 100": 375,
+   "Carbohydrates ()": 44.24,
+   "Fiber ()": 10.5,
+   "Fats()": 22,
+   "Proteins ()": 17.81
+ },
+ {
+   "S NO.": 566,
+   "Name": "Bamboo shoots, raw",
+   "Calories Per 100": 27,
+   "Carbohydrates ()": 5.2,
+   "Fiber ()": 2.2,
+   "Fats()": 0.3,
+   "Proteins ()": 2.6
+ },
+ {
+   "S NO.": 567,
+   "Name": "Fish, raw, lingcod",
+   "Calories Per 100": 85,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 1.1,
+   "Proteins ()": 17.66
+ },
+ {
+   "S NO.": 568,
+   "Name": "Whey, dried, sweet",
+   "Calories Per 100": 353,
+   "Carbohydrates ()": 74.46,
+   "Fiber ()": 0,
+   "Fats()": 1.1,
+   "Proteins ()": 12.93
+ },
+ {
+   "S NO.": 569,
+   "Name": "Whey, fluid, sweet",
+   "Calories Per 100": 27,
+   "Carbohydrates ()": 5.14,
+   "Fiber ()": 0,
+   "Fats()": 0.4,
+   "Proteins ()": 0.85
+ },
+ {
+   "S NO.": 570,
+   "Name": "Spices, poppy seed",
+   "Calories Per 100": 525,
+   "Carbohydrates ()": 28.13,
+   "Fiber ()": 19.5,
+   "Fats()": 42,
+   "Proteins ()": 17.99
+ },
+ {
+   "S NO.": 571,
+   "Name": "Babyfood, pretzels",
+   "Calories Per 100": 397,
+   "Carbohydrates ()": 82.2,
+   "Fiber ()": 2.3,
+   "Fats()": 2,
+   "Proteins ()": 10.8
+ },
+ {
+   "S NO.": 572,
+   "Name": "Fat, mutton tallow",
+   "Calories Per 100": 902,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 100,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 573,
+   "Name": "Coffeecake, cheese",
+   "Calories Per 100": 339,
+   "Carbohydrates ()": 44.3,
+   "Fiber ()": 1,
+   "Fats()": 15,
+   "Proteins ()": 7
+ },
+ {
+   "S NO.": 574,
+   "Name": "Sauce, horseradish",
+   "Calories Per 100": 503,
+   "Carbohydrates ()": 10.05,
+   "Fiber ()": 1,
+   "Fats()": 51,
+   "Proteins ()": 1.09
+ },
+ {
+   "S NO.": 575,
+   "Name": "Yardlong bean, raw",
+   "Calories Per 100": 47,
+   "Carbohydrates ()": 8.35,
+   "Fiber ()": 0,
+   "Fats()": 0.4,
+   "Proteins ()": 2.8
+ },
+ {
+   "S NO.": 576,
+   "Name": "Cress, raw, garden",
+   "Calories Per 100": 32,
+   "Carbohydrates ()": 5.5,
+   "Fiber ()": 1.1,
+   "Fats()": 0.7,
+   "Proteins ()": 2.6
+ },
+ {
+   "S NO.": 577,
+   "Name": "Dates, deglet noor",
+   "Calories Per 100": 282,
+   "Carbohydrates ()": 75.03,
+   "Fiber ()": 8,
+   "Fats()": 0.4,
+   "Proteins ()": 2.45
+ },
+ {
+   "S NO.": 578,
+   "Name": "Lambsquarters, raw",
+   "Calories Per 100": 43,
+   "Carbohydrates ()": 7.3,
+   "Fiber ()": 4,
+   "Fats()": 0.8,
+   "Proteins ()": 4.2
+ },
+ {
+   "S NO.": 579,
+   "Name": "Gravy, dry, turkey",
+   "Calories Per 100": 367,
+   "Carbohydrates ()": 65.12,
+   "Fiber ()": 0,
+   "Fats()": 7.2,
+   "Proteins ()": 10.42
+ },
+ {
+   "S NO.": 580,
+   "Name": "Vital wheat gluten",
+   "Calories Per 100": 370,
+   "Carbohydrates ()": 13.79,
+   "Fiber ()": 0.6,
+   "Fats()": 1.9,
+   "Proteins ()": 75.16
+ },
+ {
+   "S NO.": 581,
+   "Name": "Turnip greens, raw",
+   "Calories Per 100": 32,
+   "Carbohydrates ()": 7.13,
+   "Fiber ()": 3.2,
+   "Fats()": 0.3,
+   "Proteins ()": 1.5
+ },
+ {
+   "S NO.": 582,
+   "Name": "Sugars, granulated",
+   "Calories Per 100": 387,
+   "Carbohydrates ()": 99.98,
+   "Fiber ()": 0,
+   "Fats()": 0,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 583,
+   "Name": "Frankfurter, pork",
+   "Calories Per 100": 269,
+   "Carbohydrates ()": 0.28,
+   "Fiber ()": 0.1,
+   "Fats()": 24,
+   "Proteins ()": 12.81
+ },
+ {
+   "S NO.": 584,
+   "Name": "Pomegranates, raw",
+   "Calories Per 100": 83,
+   "Carbohydrates ()": 18.7,
+   "Fiber ()": 4,
+   "Fats()": 1.2,
+   "Proteins ()": 1.67
+ },
+ {
+   "S NO.": 585,
+   "Name": "Pears, raw, asian",
+   "Calories Per 100": 42,
+   "Carbohydrates ()": 10.65,
+   "Fiber ()": 3.6,
+   "Fats()": 0.2,
+   "Proteins ()": 0.5
+ },
+ {
+   "S NO.": 586,
+   "Name": "Cookies, molasses",
+   "Calories Per 100": 430,
+   "Carbohydrates ()": 73.8,
+   "Fiber ()": 1,
+   "Fats()": 13,
+   "Proteins ()": 5.6
+ },
+ {
+   "S NO.": 587,
+   "Name": "Cookies, fig bars",
+   "Calories Per 100": 348,
+   "Carbohydrates ()": 70.9,
+   "Fiber ()": 4.6,
+   "Fats()": 7.3,
+   "Proteins ()": 3.7
+ },
+ {
+   "S NO.": 588,
+   "Name": "Liverwurst spread",
+   "Calories Per 100": 305,
+   "Carbohydrates ()": 5.89,
+   "Fiber ()": 2.5,
+   "Fats()": 25,
+   "Proteins ()": 12.38
+ },
+ {
+   "S NO.": 589,
+   "Name": "Roast beef spread",
+   "Calories Per 100": 223,
+   "Carbohydrates ()": 3.73,
+   "Fiber ()": 0.2,
+   "Fats()": 16,
+   "Proteins ()": 15.27
+ },
+ {
+   "S NO.": 590,
+   "Name": "Chard, raw, swiss",
+   "Calories Per 100": 19,
+   "Carbohydrates ()": 3.74,
+   "Fiber ()": 1.6,
+   "Fats()": 0.2,
+   "Proteins ()": 1.8
+ },
+ {
+   "S NO.": 591,
+   "Name": "Goose, raw, liver",
+   "Calories Per 100": 133,
+   "Carbohydrates ()": 6.32,
+   "Fiber ()": 0,
+   "Fats()": 4.3,
+   "Proteins ()": 16.37
+ },
+ {
+   "S NO.": 592,
+   "Name": "TACO BELL, Nachos",
+   "Calories Per 100": 350,
+   "Carbohydrates ()": 34.91,
+   "Fiber ()": 3.2,
+   "Fats()": 22,
+   "Proteins ()": 4.32
+ },
+ {
+   "S NO.": 593,
+   "Name": "Sausage, meatless",
+   "Calories Per 100": 255,
+   "Carbohydrates ()": 8.09,
+   "Fiber ()": 2.8,
+   "Fats()": 18,
+   "Proteins ()": 20.28
+ },
+ {
+   "S NO.": 594,
+   "Name": "Frankfurter, meat",
+   "Calories Per 100": 290,
+   "Carbohydrates ()": 4.17,
+   "Fiber ()": 0,
+   "Fats()": 26,
+   "Proteins ()": 10.26
+ },
+ {
+   "S NO.": 595,
+   "Name": "Rice flour, brown",
+   "Calories Per 100": 363,
+   "Carbohydrates ()": 76.48,
+   "Fiber ()": 4.6,
+   "Fats()": 2.8,
+   "Proteins ()": 7.23
+ },
+ {
+   "S NO.": 596,
+   "Name": "Peppermint, fresh",
+   "Calories Per 100": 70,
+   "Carbohydrates ()": 14.89,
+   "Fiber ()": 8,
+   "Fats()": 0.9,
+   "Proteins ()": 3.75
+ },
+ {
+   "S NO.": 597,
+   "Name": "Vinegar, red wine",
+   "Calories Per 100": 19,
+   "Carbohydrates ()": 0.27,
+   "Fiber ()": 0,
+   "Fats()": 0,
+   "Proteins ()": 0.04
+ },
+ {
+   "S NO.": 598,
+   "Name": "Vinegar, balsamic",
+   "Calories Per 100": 88,
+   "Carbohydrates ()": 17.03,
+   "Fiber ()": 0,
+   "Fats()": 0,
+   "Proteins ()": 0.49
+ },
+ {
+   "S NO.": 599,
+   "Name": "Luxury loaf, pork",
+   "Calories Per 100": 141,
+   "Carbohydrates ()": 4.9,
+   "Fiber ()": 0,
+   "Fats()": 4.8,
+   "Proteins ()": 18.4
+ },
+ {
+   "S NO.": 600,
+   "Name": "Rye flour, medium",
+   "Calories Per 100": 349,
+   "Carbohydrates ()": 75.43,
+   "Fiber ()": 11.8,
+   "Fats()": 1.5,
+   "Proteins ()": 10.88
+ },
+ {
+   "S NO.": 601,
+   "Name": "DENNY'S, coleslaw",
+   "Calories Per 100": 183,
+   "Carbohydrates ()": 10.88,
+   "Fiber ()": 1.3,
+   "Fats()": 15,
+   "Proteins ()": 0.97
+ },
+ {
+   "S NO.": 602,
+   "Name": "Bread, wheat bran",
+   "Calories Per 100": 248,
+   "Carbohydrates ()": 47.8,
+   "Fiber ()": 4,
+   "Fats()": 3.4,
+   "Proteins ()": 8.8
+ },
+ {
+   "S NO.": 603,
+   "Name": "Croissants, apple",
+   "Calories Per 100": 254,
+   "Carbohydrates ()": 37.1,
+   "Fiber ()": 2.5,
+   "Fats()": 8.7,
+   "Proteins ()": 7.4
+ },
+ {
+   "S NO.": 604,
+   "Name": "Candies, Tamarind",
+   "Calories Per 100": 368,
+   "Carbohydrates ()": 91.96,
+   "Fiber ()": 2.5,
+   "Fats()": 0,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 605,
+   "Name": "Oheloberries, raw",
+   "Calories Per 100": 28,
+   "Carbohydrates ()": 6.84,
+   "Fiber ()": 0,
+   "Fats()": 0.2,
+   "Proteins ()": 0.38
+ },
+ {
+   "S NO.": 606,
+   "Name": "PACE, Salsa Verde",
+   "Calories Per 100": 47,
+   "Carbohydrates ()": 6.25,
+   "Fiber ()": 0,
+   "Fats()": 1.6,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 607,
+   "Name": "Barley malt flour",
+   "Calories Per 100": 361,
+   "Carbohydrates ()": 78.3,
+   "Fiber ()": 7.1,
+   "Fats()": 1.8,
+   "Proteins ()": 10.28
+ },
+ {
+   "S NO.": 608,
+   "Name": "Rice noodles, dry",
+   "Calories Per 100": 364,
+   "Carbohydrates ()": 80.18,
+   "Fiber ()": 1.6,
+   "Fats()": 0.6,
+   "Proteins ()": 5.95
+ },
+ {
+   "S NO.": 609,
+   "Name": "Fish oil, sardine",
+   "Calories Per 100": 902,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 100,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 610,
+   "Name": "Fish oil, herring",
+   "Calories Per 100": 902,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 100,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 611,
+   "Name": "Plantains, cooked",
+   "Calories Per 100": 116,
+   "Carbohydrates ()": 31.15,
+   "Fiber ()": 2.3,
+   "Fats()": 0.2,
+   "Proteins ()": 0.79
+ },
+ {
+   "S NO.": 612,
+   "Name": "Burdock root, raw",
+   "Calories Per 100": 72,
+   "Carbohydrates ()": 17.34,
+   "Fiber ()": 3.3,
+   "Fats()": 0.2,
+   "Proteins ()": 1.53
+ },
+ {
+   "S NO.": 613,
+   "Name": "Butterbur, canned",
+   "Calories Per 100": 3,
+   "Carbohydrates ()": 0.38,
+   "Fiber ()": 0,
+   "Fats()": 0.1,
+   "Proteins ()": 0.11
+ },
+ {
+   "S NO.": 614,
+   "Name": "Ostrich, raw, fan",
+   "Calories Per 100": 117,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 2.7,
+   "Proteins ()": 21.81
+ },
+ {
+   "S NO.": 615,
+   "Name": "SILK Nog, soymilk",
+   "Calories Per 100": 74,
+   "Carbohydrates ()": 12.3,
+   "Fiber ()": 0,
+   "Fats()": 1.6,
+   "Proteins ()": 2.46
+ },
+ {
+   "S NO.": 616,
+   "Name": "Gravy, dry, brown",
+   "Calories Per 100": 367,
+   "Carbohydrates ()": 59.38,
+   "Fiber ()": 2,
+   "Fats()": 9.6,
+   "Proteins ()": 10.74
+ },
+ {
+   "S NO.": 617,
+   "Name": "Cheese, provolone",
+   "Calories Per 100": 351,
+   "Carbohydrates ()": 2.14,
+   "Fiber ()": 0,
+   "Fats()": 27,
+   "Proteins ()": 25.58
+ },
+ {
+   "S NO.": 618,
+   "Name": "Cheese, roquefort",
+   "Calories Per 100": 369,
+   "Carbohydrates ()": 2,
+   "Fiber ()": 0,
+   "Fats()": 31,
+   "Proteins ()": 21.54
+ },
+ {
+   "S NO.": 619,
+   "Name": "Muffins, oat bran",
+   "Calories Per 100": 270,
+   "Carbohydrates ()": 48.3,
+   "Fiber ()": 4.6,
+   "Fats()": 7.4,
+   "Proteins ()": 7
+ },
+ {
+   "S NO.": 620,
+   "Name": "Syrups, grenadine",
+   "Calories Per 100": 268,
+   "Carbohydrates ()": 66.91,
+   "Fiber ()": 0,
+   "Fats()": 0,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 621,
+   "Name": "Raisins, seedless",
+   "Calories Per 100": 299,
+   "Carbohydrates ()": 79.18,
+   "Fiber ()": 3.7,
+   "Fats()": 0.5,
+   "Proteins ()": 3.07
+ },
+ {
+   "S NO.": 622,
+   "Name": "Strawberries, raw",
+   "Calories Per 100": 32,
+   "Carbohydrates ()": 7.68,
+   "Fiber ()": 2,
+   "Fats()": 0.3,
+   "Proteins ()": 0.67
+ },
+ {
+   "S NO.": 623,
+   "Name": "Fish, raw, burbot",
+   "Calories Per 100": 90,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 0.8,
+   "Proteins ()": 19.31
+ },
+ {
+   "S NO.": 624,
+   "Name": "Wheat germ, crude",
+   "Calories Per 100": 360,
+   "Carbohydrates ()": 51.8,
+   "Fiber ()": 13.2,
+   "Fats()": 9.7,
+   "Proteins ()": 23.15
+ },
+ {
+   "S NO.": 625,
+   "Name": "Wheat, hard white",
+   "Calories Per 100": 342,
+   "Carbohydrates ()": 75.9,
+   "Fiber ()": 12.2,
+   "Fats()": 1.7,
+   "Proteins ()": 11.31
+ },
+ {
+   "S NO.": 626,
+   "Name": "Wheat bran, crude",
+   "Calories Per 100": 216,
+   "Carbohydrates ()": 64.51,
+   "Fiber ()": 42.8,
+   "Fats()": 4.3,
+   "Proteins ()": 15.55
+ },
+ {
+   "S NO.": 627,
+   "Name": "Gooseberries, raw",
+   "Calories Per 100": 44,
+   "Carbohydrates ()": 10.18,
+   "Fiber ()": 4.3,
+   "Fats()": 0.6,
+   "Proteins ()": 0.88
+ },
+ {
+   "S NO.": 628,
+   "Name": "Spices, dill seed",
+   "Calories Per 100": 305,
+   "Carbohydrates ()": 55.17,
+   "Fiber ()": 21.1,
+   "Fats()": 15,
+   "Proteins ()": 15.98
+ },
+ {
+   "S NO.": 629,
+   "Name": "Oil, cocoa butter",
+   "Calories Per 100": 884,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 100,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 630,
+   "Name": "APPLEBEE'S, chili",
+   "Calories Per 100": 157,
+   "Carbohydrates ()": 4.57,
+   "Fiber ()": 1.4,
+   "Fats()": 9.8,
+   "Proteins ()": 12.56
+ },
+ {
+   "S NO.": 631,
+   "Name": "Grape leaves, raw",
+   "Calories Per 100": 93,
+   "Carbohydrates ()": 17.31,
+   "Fiber ()": 11,
+   "Fats()": 2.1,
+   "Proteins ()": 5.6
+ },
+ {
+   "S NO.": 632,
+   "Name": "Kale, raw, scotch",
+   "Calories Per 100": 42,
+   "Carbohydrates ()": 8.32,
+   "Fiber ()": 1.7,
+   "Fats()": 0.6,
+   "Proteins ()": 2.8
+ },
+ {
+   "S NO.": 633,
+   "Name": "Marmalade, orange",
+   "Calories Per 100": 246,
+   "Carbohydrates ()": 66.3,
+   "Fiber ()": 0.7,
+   "Fats()": 0,
+   "Proteins ()": 0.3
+ },
+ {
+   "S NO.": 634,
+   "Name": "Whey, dried, acid",
+   "Calories Per 100": 339,
+   "Carbohydrates ()": 73.45,
+   "Fiber ()": 0,
+   "Fats()": 0.5,
+   "Proteins ()": 11.73
+ },
+ {
+   "S NO.": 635,
+   "Name": "Whey, fluid, acid",
+   "Calories Per 100": 24,
+   "Carbohydrates ()": 5.12,
+   "Fiber ()": 0,
+   "Fats()": 0.1,
+   "Proteins ()": 0.76
+ },
+ {
+   "S NO.": 636,
+   "Name": "Eggplant, pickled",
+   "Calories Per 100": 49,
+   "Carbohydrates ()": 9.77,
+   "Fiber ()": 2.5,
+   "Fats()": 0.7,
+   "Proteins ()": 0.9
+ },
+ {
+   "S NO.": 637,
+   "Name": "Babyfood, cookies",
+   "Calories Per 100": 433,
+   "Carbohydrates ()": 67.1,
+   "Fiber ()": 0.2,
+   "Fats()": 13,
+   "Proteins ()": 11.8
+ },
+ {
+   "S NO.": 638,
+   "Name": "Fennel, raw, bulb",
+   "Calories Per 100": 31,
+   "Carbohydrates ()": 7.3,
+   "Fiber ()": 3.1,
+   "Fats()": 0.2,
+   "Proteins ()": 1.24
+ },
+ {
+   "S NO.": 639,
+   "Name": "Egg, dried, whole",
+   "Calories Per 100": 592,
+   "Carbohydrates ()": 1.13,
+   "Fiber ()": 0,
+   "Fats()": 44,
+   "Proteins ()": 48.05
+ },
+ {
+   "S NO.": 640,
+   "Name": "Coffeecake, fruit",
+   "Calories Per 100": 311,
+   "Carbohydrates ()": 51.5,
+   "Fiber ()": 2.5,
+   "Fats()": 10,
+   "Proteins ()": 5.2
+ },
+ {
+   "S NO.": 641,
+   "Name": "Candies, caramels",
+   "Calories Per 100": 382,
+   "Carbohydrates ()": 77,
+   "Fiber ()": 0,
+   "Fats()": 8.1,
+   "Proteins ()": 4.6
+ },
+ {
+   "S NO.": 642,
+   "Name": "Sour cream, light",
+   "Calories Per 100": 136,
+   "Carbohydrates ()": 7.1,
+   "Fiber ()": 0,
+   "Fats()": 11,
+   "Proteins ()": 3.5
+ },
+ {
+   "S NO.": 643,
+   "Name": "Egg, dried, white",
+   "Calories Per 100": 382,
+   "Carbohydrates ()": 7.8,
+   "Fiber ()": 0,
+   "Fats()": 0,
+   "Proteins ()": 81.1
+ },
+ {
+   "S NO.": 644,
+   "Name": "Wild rice, cooked",
+   "Calories Per 100": 101,
+   "Carbohydrates ()": 21.34,
+   "Fiber ()": 1.8,
+   "Fats()": 0.3,
+   "Proteins ()": 3.99
+ },
+ {
+   "S NO.": 645,
+   "Name": "Chicken, meatless",
+   "Calories Per 100": 224,
+   "Carbohydrates ()": 3.64,
+   "Fiber ()": 3.6,
+   "Fats()": 13,
+   "Proteins ()": 23.64
+ },
+ {
+   "S NO.": 646,
+   "Name": "Corn grain, white",
+   "Calories Per 100": 365,
+   "Carbohydrates ()": 74.26,
+   "Fiber ()": 0,
+   "Fats()": 4.7,
+   "Proteins ()": 9.42
+ },
+ {
+   "S NO.": 647,
+   "Name": "Veal, raw, ground",
+   "Calories Per 100": 197,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 13,
+   "Proteins ()": 18.58
+ },
+ {
+   "S NO.": 648,
+   "Name": "Wheat, soft white",
+   "Calories Per 100": 340,
+   "Carbohydrates ()": 75.36,
+   "Fiber ()": 12.7,
+   "Fats()": 2,
+   "Proteins ()": 10.69
+ },
+ {
+   "S NO.": 649,
+   "Name": "Elderberries, raw",
+   "Calories Per 100": 73,
+   "Carbohydrates ()": 18.4,
+   "Fiber ()": 7,
+   "Fats()": 0.5,
+   "Proteins ()": 0.66
+ },
+ {
+   "S NO.": 650,
+   "Name": "Nuts, raw, acorns",
+   "Calories Per 100": 387,
+   "Carbohydrates ()": 40.75,
+   "Fiber ()": 0,
+   "Fats()": 24,
+   "Proteins ()": 6.15
+ },
+ {
+   "S NO.": 651,
+   "Name": "Orange juice, raw",
+   "Calories Per 100": 45,
+   "Carbohydrates ()": 10.4,
+   "Fiber ()": 0.2,
+   "Fats()": 0.2,
+   "Proteins ()": 0.7
+ },
+ {
+   "S NO.": 652,
+   "Name": "POPEYES, Coleslaw",
+   "Calories Per 100": 161,
+   "Carbohydrates ()": 14.12,
+   "Fiber ()": 1.7,
+   "Fats()": 11,
+   "Proteins ()": 0.98
+ },
+ {
+   "S NO.": 653,
+   "Name": "Cabbage, raw, red",
+   "Calories Per 100": 31,
+   "Carbohydrates ()": 7.37,
+   "Fiber ()": 2.1,
+   "Fats()": 0.2,
+   "Proteins ()": 1.43
+ },
+ {
+   "S NO.": 654,
+   "Name": "Blackberries, raw",
+   "Calories Per 100": 43,
+   "Carbohydrates ()": 9.61,
+   "Fiber ()": 5.3,
+   "Fats()": 0.5,
+   "Proteins ()": 1.39
+ },
+ {
+   "S NO.": 655,
+   "Name": "Wasabi, raw, root",
+   "Calories Per 100": 109,
+   "Carbohydrates ()": 23.54,
+   "Fiber ()": 7.8,
+   "Fats()": 0.6,
+   "Proteins ()": 4.8
+ },
+ {
+   "S NO.": 656,
+   "Name": "Cheese, limburger",
+   "Calories Per 100": 327,
+   "Carbohydrates ()": 0.49,
+   "Fiber ()": 0,
+   "Fats()": 27,
+   "Proteins ()": 20.05
+ },
+ {
+   "S NO.": 657,
+   "Name": "Raspberries, raw",
+   "Calories Per 100": 52,
+   "Carbohydrates ()": 11.94,
+   "Fiber ()": 6.5,
+   "Fats()": 0.7,
+   "Proteins ()": 1.2
+ },
+ {
+   "S NO.": 658,
+   "Name": "Corn bran, crude",
+   "Calories Per 100": 224,
+   "Carbohydrates ()": 85.64,
+   "Fiber ()": 79,
+   "Fats()": 0.9,
+   "Proteins ()": 8.36
+ },
+ {
+   "S NO.": 659,
+   "Name": "Bread, rice bran",
+   "Calories Per 100": 243,
+   "Carbohydrates ()": 43.5,
+   "Fiber ()": 4.9,
+   "Fats()": 4.6,
+   "Proteins ()": 8.9
+ },
+ {
+   "S NO.": 660,
+   "Name": "Taro shoots, raw",
+   "Calories Per 100": 11,
+   "Carbohydrates ()": 2.32,
+   "Fiber ()": 0,
+   "Fats()": 0.1,
+   "Proteins ()": 0.92
+ },
+ {
+   "S NO.": 661,
+   "Name": "Sugars, powdered",
+   "Calories Per 100": 389,
+   "Carbohydrates ()": 99.77,
+   "Fiber ()": 0,
+   "Fats()": 0,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 662,
+   "Name": "Emu, raw, ground",
+   "Calories Per 100": 134,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 4,
+   "Proteins ()": 22.77
+ },
+ {
+   "S NO.": 663,
+   "Name": "Cookies, fortune",
+   "Calories Per 100": 378,
+   "Carbohydrates ()": 84,
+   "Fiber ()": 1.6,
+   "Fats()": 2.7,
+   "Proteins ()": 4.2
+ },
+ {
+   "S NO.": 664,
+   "Name": "Fish, raw, cisco",
+   "Calories Per 100": 98,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 1.9,
+   "Proteins ()": 18.99
+ },
+ {
+   "S NO.": 665,
+   "Name": "Couscous, cooked",
+   "Calories Per 100": 112,
+   "Carbohydrates ()": 23.22,
+   "Fiber ()": 1.4,
+   "Fats()": 0.2,
+   "Proteins ()": 3.79
+ },
+ {
+   "S NO.": 666,
+   "Name": "Dill weed, fresh",
+   "Calories Per 100": 43,
+   "Carbohydrates ()": 7.02,
+   "Fiber ()": 2.1,
+   "Fats()": 1.1,
+   "Proteins ()": 3.46
+ },
+ {
+   "S NO.": 667,
+   "Name": "Spearmint, dried",
+   "Calories Per 100": 285,
+   "Carbohydrates ()": 52.04,
+   "Fiber ()": 29.8,
+   "Fats()": 6,
+   "Proteins ()": 19.93
+ },
+ {
+   "S NO.": 668,
+   "Name": "Spearmint, fresh",
+   "Calories Per 100": 44,
+   "Carbohydrates ()": 8.41,
+   "Fiber ()": 6.8,
+   "Fats()": 0.7,
+   "Proteins ()": 3.29
+ },
+ {
+   "S NO.": 669,
+   "Name": "Tamales (Navajo)",
+   "Calories Per 100": 153,
+   "Carbohydrates ()": 18.12,
+   "Fiber ()": 3.1,
+   "Fats()": 6.1,
+   "Proteins ()": 6.28
+ },
+ {
+   "S NO.": 670,
+   "Name": "Rice bran, crude",
+   "Calories Per 100": 316,
+   "Carbohydrates ()": 49.69,
+   "Fiber ()": 21,
+   "Fats()": 21,
+   "Proteins ()": 13.35
+ },
+ {
+   "S NO.": 671,
+   "Name": "Rye flour, light",
+   "Calories Per 100": 357,
+   "Carbohydrates ()": 76.68,
+   "Fiber ()": 8,
+   "Fats()": 1.3,
+   "Proteins ()": 9.82
+ },
+ {
+   "S NO.": 672,
+   "Name": "Spices, bay leaf",
+   "Calories Per 100": 313,
+   "Carbohydrates ()": 74.97,
+   "Fiber ()": 26.3,
+   "Fats()": 8.4,
+   "Proteins ()": 7.61
+ },
+ {
+   "S NO.": 673,
+   "Name": "Spices, cardamom",
+   "Calories Per 100": 311,
+   "Carbohydrates ()": 68.47,
+   "Fiber ()": 28,
+   "Fats()": 6.7,
+   "Proteins ()": 10.76
+ },
+ {
+   "S NO.": 674,
+   "Name": "Lemon juice, raw",
+   "Calories Per 100": 22,
+   "Carbohydrates ()": 6.9,
+   "Fiber ()": 0.3,
+   "Fats()": 0.2,
+   "Proteins ()": 0.35
+ },
+ {
+   "S NO.": 675,
+   "Name": "Ginger root, raw",
+   "Calories Per 100": 80,
+   "Carbohydrates ()": 17.77,
+   "Fiber ()": 2,
+   "Fats()": 0.8,
+   "Proteins ()": 1.82
+ },
+ {
+   "S NO.": 676,
+   "Name": "Fish oil, salmon",
+   "Calories Per 100": 902,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 100,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 677,
+   "Name": "Fish, tuna salad",
+   "Calories Per 100": 187,
+   "Carbohydrates ()": 9.41,
+   "Fiber ()": 0,
+   "Fats()": 9.3,
+   "Proteins ()": 16.04
+ },
+ {
+   "S NO.": 678,
+   "Name": "Orange peel, raw",
+   "Calories Per 100": 97,
+   "Carbohydrates ()": 25,
+   "Fiber ()": 10.6,
+   "Fats()": 0.2,
+   "Proteins ()": 1.5
+ },
+ {
+   "S NO.": 679,
+   "Name": "Blueberries, raw",
+   "Calories Per 100": 57,
+   "Carbohydrates ()": 14.49,
+   "Fiber ()": 2.4,
+   "Fats()": 0.3,
+   "Proteins ()": 0.74
+ },
+ {
+   "S NO.": 680,
+   "Name": "Cheese, muenster",
+   "Calories Per 100": 368,
+   "Carbohydrates ()": 1.12,
+   "Fiber ()": 0,
+   "Fats()": 30,
+   "Proteins ()": 23.41
+ },
+ {
+   "S NO.": 681,
+   "Name": "Beet greens, raw",
+   "Calories Per 100": 22,
+   "Carbohydrates ()": 4.33,
+   "Fiber ()": 3.7,
+   "Fats()": 0.1,
+   "Proteins ()": 2.2
+ },
+ {
+   "S NO.": 682,
+   "Name": "Cheese, cheshire",
+   "Calories Per 100": 387,
+   "Carbohydrates ()": 4.78,
+   "Fiber ()": 0,
+   "Fats()": 31,
+   "Proteins ()": 23.37
+ },
+ {
+   "S NO.": 683,
+   "Name": "Bagels, oat bran",
+   "Calories Per 100": 255,
+   "Carbohydrates ()": 53.3,
+   "Fiber ()": 3.6,
+   "Fats()": 1.2,
+   "Proteins ()": 10.7
+ },
+ {
+   "S NO.": 684,
+   "Name": "Fat, beef tallow",
+   "Calories Per 100": 902,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 100,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 685,
+   "Name": "Clementines, raw",
+   "Calories Per 100": 47,
+   "Carbohydrates ()": 12.02,
+   "Fiber ()": 1.7,
+   "Fats()": 0.2,
+   "Proteins ()": 0.85
+ },
+ {
+   "S NO.": 686,
+   "Name": "Peas, raw, green",
+   "Calories Per 100": 81,
+   "Carbohydrates ()": 14.45,
+   "Fiber ()": 5.7,
+   "Fats()": 0.4,
+   "Proteins ()": 5.42
+ },
+ {
+   "S NO.": 687,
+   "Name": "Oat bran, cooked",
+   "Calories Per 100": 40,
+   "Carbohydrates ()": 11.44,
+   "Fiber ()": 2.6,
+   "Fats()": 0.9,
+   "Proteins ()": 3.21
+ },
+ {
+   "S NO.": 688,
+   "Name": "Pears, bosc, raw",
+   "Calories Per 100": 67,
+   "Carbohydrates ()": 16.1,
+   "Fiber ()": 3.1,
+   "Fats()": 0.1,
+   "Proteins ()": 0.36
+ },
+ {
+   "S NO.": 689,
+   "Name": "Sugar, turbinado",
+   "Calories Per 100": 399,
+   "Carbohydrates ()": 99.8,
+   "Fiber ()": 0,
+   "Fats()": 0,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 690,
+   "Name": "Headcheese, pork",
+   "Calories Per 100": 157,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 11,
+   "Proteins ()": 13.83
+ },
+ {
+   "S NO.": 691,
+   "Name": "Ham salad spread",
+   "Calories Per 100": 216,
+   "Carbohydrates ()": 10.64,
+   "Fiber ()": 0,
+   "Fats()": 16,
+   "Proteins ()": 8.68
+ },
+ {
+   "S NO.": 692,
+   "Name": "Olive loaf, pork",
+   "Calories Per 100": 235,
+   "Carbohydrates ()": 9.2,
+   "Fiber ()": 0,
+   "Fats()": 17,
+   "Proteins ()": 11.8
+ },
+ {
+   "S NO.": 693,
+   "Name": "Pastrami, turkey",
+   "Calories Per 100": 139,
+   "Carbohydrates ()": 3.34,
+   "Fiber ()": 0.1,
+   "Fats()": 6.2,
+   "Proteins ()": 16.3
+ },
+ {
+   "S NO.": 694,
+   "Name": "Cranberries, raw",
+   "Calories Per 100": 46,
+   "Carbohydrates ()": 11.97,
+   "Fiber ()": 3.6,
+   "Fats()": 0.1,
+   "Proteins ()": 0.46
+ },
+ {
+   "S NO.": 695,
+   "Name": "POPEYES, biscuit",
+   "Calories Per 100": 401,
+   "Carbohydrates ()": 40.95,
+   "Fiber ()": 3.8,
+   "Fats()": 24,
+   "Proteins ()": 6
+ },
+ {
+   "S NO.": 696,
+   "Name": "Egg, dried, yolk",
+   "Calories Per 100": 669,
+   "Carbohydrates ()": 0.66,
+   "Fiber ()": 0,
+   "Fats()": 59,
+   "Proteins ()": 33.63
+ },
+ {
+   "S NO.": 697,
+   "Name": "Quinoa, uncooked",
+   "Calories Per 100": 368,
+   "Carbohydrates ()": 64.16,
+   "Fiber ()": 7,
+   "Fats()": 6.1,
+   "Proteins ()": 14.12
+ },
+ {
+   "S NO.": 698,
+   "Name": "Emu, raw, oyster",
+   "Calories Per 100": 141,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 4.9,
+   "Proteins ()": 22.81
+ },
+ {
+   "S NO.": 699,
+   "Name": "Rose-apples, raw",
+   "Calories Per 100": 25,
+   "Carbohydrates ()": 5.7,
+   "Fiber ()": 0,
+   "Fats()": 0.3,
+   "Proteins ()": 0.6
+ },
+ {
+   "S NO.": 700,
+   "Name": "Cheese, monterey",
+   "Calories Per 100": 373,
+   "Carbohydrates ()": 0.68,
+   "Fiber ()": 0,
+   "Fats()": 30,
+   "Proteins ()": 24.48
+ },
+ {
+   "S NO.": 701,
+   "Name": "Fish, raw, scup",
+   "Calories Per 100": 105,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 2.7,
+   "Proteins ()": 18.88
+ },
+ {
+   "S NO.": 702,
+   "Name": "Cheese, cheddar",
+   "Calories Per 100": 404,
+   "Carbohydrates ()": 3.09,
+   "Fiber ()": 0,
+   "Fats()": 33,
+   "Proteins ()": 22.87
+ },
+ {
+   "S NO.": 703,
+   "Name": "Cheese, caraway",
+   "Calories Per 100": 376,
+   "Carbohydrates ()": 3.06,
+   "Fiber ()": 0,
+   "Fats()": 29,
+   "Proteins ()": 25.18
+ },
+ {
+   "S NO.": 704,
+   "Name": "Oil, wheat germ",
+   "Calories Per 100": 884,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 100,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 705,
+   "Name": "Bread, oat bran",
+   "Calories Per 100": 236,
+   "Carbohydrates ()": 39.8,
+   "Fiber ()": 4.5,
+   "Fats()": 4.4,
+   "Proteins ()": 10.4
+ },
+ {
+   "S NO.": 706,
+   "Name": "Watermelon, raw",
+   "Calories Per 100": 30,
+   "Carbohydrates ()": 7.55,
+   "Fiber ()": 0.4,
+   "Fats()": 0.2,
+   "Proteins ()": 0.61
+ },
+ {
+   "S NO.": 707,
+   "Name": "Potato pancakes",
+   "Calories Per 100": 268,
+   "Carbohydrates ()": 27.81,
+   "Fiber ()": 3.3,
+   "Fats()": 15,
+   "Proteins ()": 6.08
+ },
+ {
+   "S NO.": 708,
+   "Name": "Spinach souffle",
+   "Calories Per 100": 172,
+   "Carbohydrates ()": 5.9,
+   "Fiber ()": 0.7,
+   "Fats()": 13,
+   "Proteins ()": 7.89
+ },
+ {
+   "S NO.": 709,
+   "Name": "Bacon, meatless",
+   "Calories Per 100": 309,
+   "Carbohydrates ()": 5.31,
+   "Fiber ()": 2.6,
+   "Fats()": 30,
+   "Proteins ()": 11.69
+ },
+ {
+   "S NO.": 710,
+   "Name": "Rosemary, fresh",
+   "Calories Per 100": 131,
+   "Carbohydrates ()": 20.7,
+   "Fiber ()": 14.1,
+   "Fats()": 5.9,
+   "Proteins ()": 3.31
+ },
+ {
+   "S NO.": 711,
+   "Name": "Syrups, sorghum",
+   "Calories Per 100": 290,
+   "Carbohydrates ()": 74.9,
+   "Fiber ()": 0,
+   "Fats()": 0,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 712,
+   "Name": "Rye flour, dark",
+   "Calories Per 100": 325,
+   "Carbohydrates ()": 68.63,
+   "Fiber ()": 23.8,
+   "Fats()": 2.2,
+   "Proteins ()": 15.91
+ },
+ {
+   "S NO.": 713,
+   "Name": "Oil, tomatoseed",
+   "Calories Per 100": 884,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 100,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 714,
+   "Name": "Croutons, plain",
+   "Calories Per 100": 407,
+   "Carbohydrates ()": 73.5,
+   "Fiber ()": 5.1,
+   "Fats()": 6.6,
+   "Proteins ()": 11.9
+ },
+ {
+   "S NO.": 715,
+   "Name": "Lemon peel, raw",
+   "Calories Per 100": 47,
+   "Carbohydrates ()": 16,
+   "Fiber ()": 10.6,
+   "Fats()": 0.3,
+   "Proteins ()": 1.5
+ },
+ {
+   "S NO.": 716,
+   "Name": "Spices, paprika",
+   "Calories Per 100": 282,
+   "Carbohydrates ()": 53.99,
+   "Fiber ()": 34.9,
+   "Fats()": 13,
+   "Proteins ()": 14.14
+ },
+ {
+   "S NO.": 717,
+   "Name": "Nectarines, raw",
+   "Calories Per 100": 44,
+   "Carbohydrates ()": 10.55,
+   "Fiber ()": 1.7,
+   "Fats()": 0.3,
+   "Proteins ()": 1.06
+ },
+ {
+   "S NO.": 718,
+   "Name": "Mulberries, raw",
+   "Calories Per 100": 43,
+   "Carbohydrates ()": 9.8,
+   "Fiber ()": 1.7,
+   "Fats()": 0.4,
+   "Proteins ()": 1.44
+ },
+ {
+   "S NO.": 719,
+   "Name": "Lotus root, raw",
+   "Calories Per 100": 74,
+   "Carbohydrates ()": 17.23,
+   "Fiber ()": 4.9,
+   "Fats()": 0.1,
+   "Proteins ()": 2.6
+ },
+ {
+   "S NO.": 720,
+   "Name": "Sauce, barbecue",
+   "Calories Per 100": 172,
+   "Carbohydrates ()": 40.77,
+   "Fiber ()": 0.9,
+   "Fats()": 0.6,
+   "Proteins ()": 0.82
+ },
+ {
+   "S NO.": 721,
+   "Name": "Fish, raw, spot",
+   "Calories Per 100": 123,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 4.9,
+   "Proteins ()": 18.51
+ },
+ {
+   "S NO.": 722,
+   "Name": "Crabapples, raw",
+   "Calories Per 100": 76,
+   "Carbohydrates ()": 19.95,
+   "Fiber ()": 0,
+   "Fats()": 0.3,
+   "Proteins ()": 0.4
+ },
+ {
+   "S NO.": 723,
+   "Name": "Breadfruit, raw",
+   "Calories Per 100": 103,
+   "Carbohydrates ()": 27.12,
+   "Fiber ()": 4.9,
+   "Fats()": 0.2,
+   "Proteins ()": 1.07
+ },
+ {
+   "S NO.": 724,
+   "Name": "Arrowroot flour",
+   "Calories Per 100": 357,
+   "Carbohydrates ()": 88.15,
+   "Fiber ()": 3.4,
+   "Fats()": 0.1,
+   "Proteins ()": 0.3
+ },
+ {
+   "S NO.": 725,
+   "Name": "Pimento, canned",
+   "Calories Per 100": 23,
+   "Carbohydrates ()": 5.1,
+   "Fiber ()": 1.9,
+   "Fats()": 0.3,
+   "Proteins ()": 1.1
+ },
+ {
+   "S NO.": 726,
+   "Name": "Tomatillos, raw",
+   "Calories Per 100": 32,
+   "Carbohydrates ()": 5.84,
+   "Fiber ()": 1.9,
+   "Fats()": 1,
+   "Proteins ()": 0.96
+ },
+ {
+   "S NO.": 727,
+   "Name": "Raisins, seeded",
+   "Calories Per 100": 296,
+   "Carbohydrates ()": 78.47,
+   "Fiber ()": 6.8,
+   "Fats()": 0.5,
+   "Proteins ()": 2.52
+ },
+ {
+   "S NO.": 728,
+   "Name": "Bologna, turkey",
+   "Calories Per 100": 209,
+   "Carbohydrates ()": 4.68,
+   "Fiber ()": 0.5,
+   "Fats()": 16,
+   "Proteins ()": 11.42
+ },
+ {
+   "S NO.": 729,
+   "Name": "Vanilla extract",
+   "Calories Per 100": 288,
+   "Carbohydrates ()": 12.65,
+   "Fiber ()": 0,
+   "Fats()": 0.1,
+   "Proteins ()": 0.06
+ },
+ {
+   "S NO.": 730,
+   "Name": "Fish, raw, carp",
+   "Calories Per 100": 127,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 5.6,
+   "Proteins ()": 17.83
+ },
+ {
+   "S NO.": 731,
+   "Name": "Wheat, sprouted",
+   "Calories Per 100": 198,
+   "Carbohydrates ()": 42.53,
+   "Fiber ()": 1.1,
+   "Fats()": 1.3,
+   "Proteins ()": 7.49
+ },
+ {
+   "S NO.": 732,
+   "Name": "Fish, raw, cusk",
+   "Calories Per 100": 87,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 0.7,
+   "Proteins ()": 18.99
+ },
+ {
+   "S NO.": 733,
+   "Name": "Watercress, raw",
+   "Calories Per 100": 11,
+   "Carbohydrates ()": 1.29,
+   "Fiber ()": 0.5,
+   "Fats()": 0.1,
+   "Proteins ()": 2.3
+ },
+ {
+   "S NO.": 734,
+   "Name": "Fish, raw, ling",
+   "Calories Per 100": 87,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 0.6,
+   "Proteins ()": 18.99
+ },
+ {
+   "S NO.": 735,
+   "Name": "Bread, cinnamon",
+   "Calories Per 100": 253,
+   "Carbohydrates ()": 44.38,
+   "Fiber ()": 3.5,
+   "Fats()": 5.3,
+   "Proteins ()": 7.05
+ },
+ {
+   "S NO.": 736,
+   "Name": "Spices, saffron",
+   "Calories Per 100": 310,
+   "Carbohydrates ()": 65.37,
+   "Fiber ()": 3.9,
+   "Fats()": 5.9,
+   "Proteins ()": 11.43
+ },
+ {
+   "S NO.": 737,
+   "Name": "Lime juice, raw",
+   "Calories Per 100": 25,
+   "Carbohydrates ()": 8.42,
+   "Fiber ()": 0.4,
+   "Fats()": 0.1,
+   "Proteins ()": 0.42
+ },
+ {
+   "S NO.": 738,
+   "Name": "Spelt, uncooked",
+   "Calories Per 100": 338,
+   "Carbohydrates ()": 70.19,
+   "Fiber ()": 10.7,
+   "Fats()": 2.4,
+   "Proteins ()": 14.57
+ },
+ {
+   "S NO.": 739,
+   "Name": "Cabbage, kimchi",
+   "Calories Per 100": 15,
+   "Carbohydrates ()": 2.4,
+   "Fiber ()": 1.6,
+   "Fats()": 0.5,
+   "Proteins ()": 1.1
+ },
+ {
+   "S NO.": 740,
+   "Name": "Seeds, flaxseed",
+   "Calories Per 100": 534,
+   "Carbohydrates ()": 28.88,
+   "Fiber ()": 27.3,
+   "Fats()": 42,
+   "Proteins ()": 18.29
+ },
+ {
+   "S NO.": 741,
+   "Name": "Cheese, gruyere",
+   "Calories Per 100": 413,
+   "Carbohydrates ()": 0.36,
+   "Fiber ()": 0,
+   "Fats()": 32,
+   "Proteins ()": 29.81
+ },
+ {
+   "S NO.": 742,
+   "Name": "Cheese, gjetost",
+   "Calories Per 100": 466,
+   "Carbohydrates ()": 42.65,
+   "Fiber ()": 0,
+   "Fats()": 30,
+   "Proteins ()": 9.65
+ },
+ {
+   "S NO.": 743,
+   "Name": "Cheese, fontina",
+   "Calories Per 100": 389,
+   "Carbohydrates ()": 1.55,
+   "Fiber ()": 0,
+   "Fats()": 31,
+   "Proteins ()": 25.6
+ },
+ {
+   "S NO.": 744,
+   "Name": "Butter, salted",
+   "Calories Per 100": 717,
+   "Carbohydrates ()": 0.06,
+   "Fiber ()": 0,
+   "Fats()": 81,
+   "Proteins ()": 0.85
+ },
+ {
+   "S NO.": 745,
+   "Name": "Oil, rice bran",
+   "Calories Per 100": 884,
+   "Carbohydrates ()": 0,
+   "Fiber ()": 0,
+   "Fats()": 100,
+   "Proteins ()": 0
+ },
+ {
+   "S NO.": 746,
+   "Name": "Crackers, milk",
+   "Calories Per 100": 446,
+   "Carbohydrates ()": 71.73,
+   "Fiber ()": 3.4,
+   "Fats()": 14,
+   "Proteins ()": 7.6
+ },
+ {
+   "S NO.": 747,
+   "Name": "Dates, medjool",
+   "Calories Per 100": 277,
+   "Carbohydrates ()": 74.97,
+   "Fiber ()": 6.7,
+   "Fats()": 0.2,
+   "Proteins ()": 1.81
+ },
+ {
+   "S NO.": 748,
+   "Name": "Arrowroot, raw",
+   "Calories Per 100": 65,
+   "Carbohydrates ()": 13.39,
+   "Fiber ()": 1.3,
+   "Fats()": 0.2,
+   "Proteins ()": 4.24
+ },
+ {
+   "S NO.": 749,
+   "Name": "Bread, oatmeal",
+   "Calories Per 100": 269,
+   "Carbohydrates ()": 48.5,
+   "Fiber ()": 4,
+   "Fats()": 4.4,
+   "Proteins ()": 8.4
+ },
+ {
+   "S NO.": 750,
+   "Name": "Bread, italian",
+   "Calories Per 100": 271,
+   "Carbohydrates ()": 50.1,
+   "Fiber ()": 3.2,
+   "Fats()": 3.5,
+   "Proteins ()": 8.8
+ },
+ {
+   "S NO.": 751,
+   "Name": "Tamarinds, raw",
+   "Calories Per 100": 239,
+   "Carbohydrates ()": 62.5,
+   "Fiber ()": 5.1,
+   "Fats()": 0.6,
+   "Proteins ()": 2.8
+ },
+ {
+   "S NO.": 752,
+   "Name": "Millet, puffed",
+   "Calories Per 100": 354,
+   "Carbohydrates ()": 80,
+   "Fiber ()": 2.7,
+   "Fats()": 3.4,
+   "Proteins ()": 13
+ },
+ {
+   "S NO.": 753,
+   "Name": "Vinegar, cider",
+   "Calories Per 100": 21,
+   "Carbohydrates ()": 0.93,
+   "Fiber ()": 0,
+   "Fats()": 0,
+   "Proteins ()": 0
+ }
+]

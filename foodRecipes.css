@@ -1,0 +1,58 @@
+
+body {
+    background-color: #222;
+    color: #FFA500;
+    font-family: 'Arial', sans-serif;
+}
+
+.recipe-container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #333;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+h2, h3 {
+    color: #FFA500;
+}
+
+.input-section {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #FFA500;
+    border-radius: 5px;
+    background-color: #444;
+    color: #FFA500;
+}
+
+button {
+    background-color: #FFA500;
+    color: #222;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #222;
+    color: #FFA500;
+}
+
+.output-section {
+    color: #FFA500;
+}
+
